@@ -85,9 +85,10 @@ uv --version
 
 ---
 
-## STEP 3 — AI(Claude) + MCP 도구 3종 연결 (0:45–1:10)
+## STEP 3 — AI(Claude) + MCP 도구 3종 연결 (0:45–1:15)
 
 여기서 AI에 ①파일읽기 ②단계추론 ③학술검색 기능을 꽂습니다.
+순서: **앱 설치(3-1) → 서버 직접 설치·검증(3-2) → 설정 등록(3-3) → 적용(3-4)**.
 
 ### 3-1. Claude Desktop 설치
 1. https://claude.ai/download 에서 **Claude Desktop** 설치 후 로그인.
@@ -95,7 +96,45 @@ uv --version
    - 이러면 `claude_desktop_config.json` 파일이 열립니다.
    - (수동 경로) Windows: `%APPDATA%\Claude\claude_desktop_config.json` / 〔Mac〕 `~/Library/Application Support/Claude/claude_desktop_config.json`
 
-### 3-2. 도구 3종 등록 (설정 파일 붙여넣기)
+### 3-2. (직접 설치) 각 MCP 서버를 노트북에 미리 설치·검증 ⭐
+> **왜 먼저 하나**: 설정 파일에 바로 붙이면, 앱에서 안 뜰 때 원인을 알 수 없습니다.
+> 명령줄에서 하나씩 **직접 실행해 "돌아간다"를 눈으로 확인**하면, 문제를 여기서 다 잡고 갑니다.
+> 덤으로 도구가 미리 내려받아져(캐시) 앱 첫 실행이 빨라집니다.
+
+명령 프롬프트(또는 PowerShell)를 새로 열고 하나씩 실행하세요. 각 서버는 실행되면
+`... running on stdio` 같은 메시지를 내고 **가만히 대기**합니다. → 그게 정상. **`Ctrl + C`로 빠져나온 뒤** 다음으로 갑니다.
+
+**① Sequential Thinking (논리추론)**
+```
+npx -y @modelcontextprotocol/server-sequential-thinking
+```
+→ `Sequential Thinking MCP Server running on stdio` 뜨면 성공. `Ctrl + C`.
+
+**② arXiv (학술검색)** — 첫 실행은 패키지 내려받느라 1~2분 걸립니다.
+```
+uvx arxiv-mcp-server
+```
+→ 오류 없이 대기하면 성공. `Ctrl + C`.
+- (선택) 매번 받기 싫으면 고정 설치: `uv tool install arxiv-mcp-server` → 이후 `arxiv-mcp-server`로 바로 실행됨.
+
+**③ Filesystem (내 사료 폴더 읽기)** — 뒤에 **읽게 할 폴더 경로**를 붙여 테스트:
+```
+npx -y @modelcontextprotocol/server-filesystem "%USERPROFILE%\Documents\thesis-1980s-korea-electronics"
+```
+→ `Secure MCP Filesystem Server running on stdio` + `Allowed directories: [...]` 뜨면 성공. `Ctrl + C`.
+〔Mac〕 경로를 `~/Documents/thesis-1980s-korea-electronics` 로.
+
+> ✅ 세 개 모두 `running on stdio`를 봤다면, 이제 앱에 붙일 준비 끝. 아래 3-3으로.
+
+🩹 **Windows에서 자주 나는 문제 — 앱은 `npx`/`uvx`를 못 찾음**
+명령줄에선 되는데 Claude Desktop에서만 도구가 안 뜨면, 앱(GUI)이 PATH를 못 읽는 경우입니다. 해결:
+1. 설치 후 **노트북을 한 번 재부팅**하고 앱을 다시 실행(가장 흔한 해결).
+2. 그래도 안 되면 설정 JSON에서 `"command"`를 **전체 경로**로 바꿉니다.
+   - `npx` → `C:\\Program Files\\nodejs\\npx.cmd`
+   - `uvx` → `%USERPROFILE%\.local\bin\uvx.exe`의 실제 경로(명령줄에서 `where uvx`로 확인 후 그 경로를 `\\`로).
+3. 명령줄에서 `where npx`, `where uvx`가 아무것도 안 나오면 STEP 1 설치가 덜 된 것 → 재설치.
+
+### 3-3. 도구 3종 등록 (설정 파일 붙여넣기)
 열린 파일 내용을 **전부 지우고** 아래를 붙여넣습니다. **한 곳만 수정**: `사료텍스트` 폴더의 실제 경로.
 
 ```json
@@ -120,7 +159,7 @@ uv --version
 - `C:\\Users\\내이름\\...` 부분을 **본인 사료텍스트 폴더 실제 경로**로 바꾸세요(역슬래시 `\\` 두 개 유지).
 - 〔Mac〕 filesystem 경로는 `/Users/내이름/Documents/thesis-1980s-korea-electronics/사료텍스트`.
 
-### 3-3. 적용
+### 3-4. 적용
 - 저장(Ctrl+S) → **Claude Desktop 완전 종료 후 재실행**.
 - 채팅창 입력칸의 🔌(슬라이더/도구) 아이콘에 **sequential-thinking · arxiv · filesystem** 3개가 보이면 성공.
 
@@ -207,6 +246,7 @@ AI가 단계별로 생각을 쪼개고 스스로 수정(Revision)하는 과정�
 
 ## 🏁 마무리 체크리스트
 - [ ] `python`, `uv`, `node`, `git` 4개 명령이 새 창에서 동작
+- [ ] 명령줄에서 3개 서버 각각 `running on stdio` 확인 (직접 설치 검증)
 - [ ] Claude Desktop에 sequential-thinking · arxiv · filesystem 3개 연결됨
 - [ ] `사료텍스트/`에 장별 텍스트 최소 1개 넣고 AI가 원문 인용에 성공
 - [ ] `docs/00_overview.md`에 연구가설 1줄 확정
