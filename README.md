@@ -15,6 +15,7 @@
   - `02_outline.md` — 목차(장·절) 초안
 - `deliverables/` — 컨설팅 산출물
   - `D01_source_acquisition_guide.md` — 사사(社史)·1차/대체 자료 확보 가이드
+  - `D02_mcp_research_toolkit.md` — 환각 방지·사료 분석용 MCP 서버 4종 세팅(검증·정정본)
 - `sources/` — 자료 관리 대장
   - `primary_sources.md` — 1차 사료(사사·백서·통계) 소재·청구기호 트래커
   - `secondary_sources.md` — 2차 문헌(단행본·논문)
