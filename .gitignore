@@ -1,0 +1,28 @@
+# 저작권 자료 원문 / 스캔본은 저장소에 올리지 않는다
+*.pdf
+*.epub
+*.djvu
+scans/
+raw_pdf/
+자료원문/
+
+# 대용량 이미지 스캔
+*.tif
+*.tiff
+
+# LaTeX / 편집 부산물
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+~$*.docx
+~$*.hwp
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
