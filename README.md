@@ -23,6 +23,9 @@
 - `research/`
   - `timeline_1980s_electronics.md` — 1980년대 전자산업 연표(사건·정책·기업)
   - `reading_note_template.md` — 문헌 정독 노트 템플릿
+- `guide/` — **2시간 실습 가이드 (Python 설치 → 논문 작성법)**
+  - `README.md` — 준비물·2시간 타임라인·핵심 원칙
+  - `2h_thesis_ai_guide.md` — STEP 0~6 단계별 본문(비전공자용, Windows/Mac)
 - `consulting/`
   - `methodology.md` — 컨설팅 방법론·역할분담·진행 단계
   - `session_log_template.md` — 세션 기록 템플릿
