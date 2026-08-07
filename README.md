@@ -25,9 +25,10 @@
 - `research/`
   - `timeline_1980s_electronics.md` — 1980년대 전자산업 연표(사건·정책·기업)
   - `reading_note_template.md` — 문헌 정독 노트 템플릿
-- `guide/` — **2시간 실습 가이드 (Python 설치 → 논문 작성법)**
-  - `README.md` — 준비물·2시간 타임라인·핵심 원칙
-  - `2h_thesis_ai_guide.md` — STEP 0~6 단계별 본문(비전공자용, Windows/Mac)
+- `guide/` — **설치부터 실제 집필환경까지 연결하는 실습 가이드**
+  - `README.md` — 가이드 선택·진행 순서·핵심 원칙
+  - `tomorrow_thesis_kickoff_guide.md` — Python·R·Quarto·Codex 설치, 지도 토론, Quarto Book·사료대장·인용 검증 실행안
+  - `2h_thesis_ai_guide.md` — 초기 Claude/MCP 실습안(참고용)
 - `consulting/`
   - `methodology.md` — 컨설팅 방법론·역할분담·진행 단계
   - `session_log_template.md` — 세션 기록 템플릿
