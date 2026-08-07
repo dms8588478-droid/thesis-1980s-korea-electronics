@@ -10,7 +10,10 @@ raw_pdf/
 *.tif
 *.tiff
 
-# LaTeX / 편집 부산물
+# Quarto / LaTeX / 편집 부산물
+.quarto/
+**/.quarto/
+**/*.quarto_ipynb
 *.aux
 *.log
 *.out
