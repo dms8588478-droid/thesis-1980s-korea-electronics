@@ -2,9 +2,15 @@
 *.pdf
 *.epub
 *.djvu
+*.hwp
+*.hwpx
 scans/
 raw_pdf/
 자료원문/
+
+# 스캔 PDF를 판독용으로 렌더링한 페이지 이미지도 원문 스캔과 동일하게 취급한다
+research/pdf_page_images/
+**/pdf_page_images/
 
 # 대용량 이미지 스캔
 *.tif
