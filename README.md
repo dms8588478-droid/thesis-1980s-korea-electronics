@@ -1,7 +1,7 @@
 # 1980년대 한국 전자산업 — 석사논문 컨설팅 워크스페이스
 
 고려대학교 사학과 석사학위논문 작성을 지원하기 위한 **FDE(Forward Deployed) 컨설팅** 작업 저장소.
-연구 주제: **1980년대 한국 전자산업의 국산화·수출 확대와 반도체 산업의 기틀 형성**.
+현재 권고 주제: **1986~1989년 4M DRAM 공동개발사업의 형성과 운영을 통해 본 정부·ETRI·참여기업의 관계**.
 
 > 컨설턴트 역할: 연구자가 사료 확보 → 정독 → 목차 → 초고 → 각주·서지 정리에 이르는 전 과정을
 > 막힘없이 진행하도록 자료 경로·연구 관리 체계·문헌 템플릿을 선제적으로 준비한다.
@@ -19,6 +19,7 @@
   - `D03_topic_selection_memo.md` — 4M DRAM 공동개발사업 중심 주제선정·타당성 시험
   - `D04_quarto_mcp_toolchain_review.md` — 사료조사 MCP·OCR·Zotero·Quarto Book 툴체인 검토
   - `D05_advisor_meeting_brief_2pages.qmd` — 지도교수 면담용 2쪽 주제·사료·목차·결정 문서
+  - `D06_advisor_research_and_thesis_strategy.md` — 허은 교수 연구·지도논문 분석과 4M DRAM 석사논문 실행전략
 - `sources/` — 자료 관리 대장
   - `primary_sources.md` — 1차 사료(사사·백서·통계) 소재·청구기호 트래커
   - `secondary_sources.md` — 2차 문헌(단행본·논문)
@@ -37,7 +38,7 @@
 
 ## 사용 방법
 
-1. `docs/00_overview.md`에서 주제·연구질문을 먼저 확정한다.
+1. `deliverables/D06_advisor_research_and_thesis_strategy.md`와 `docs/00_overview.md`를 지도교수와 검토해 주제·연구질문을 확정한다.
 2. `deliverables/D01_source_acquisition_guide.md`를 따라 핵심 사료를 확보하고
    `sources/primary_sources.md` 대장에 소재·청구기호·확보상태를 기록한다.
 3. 자료를 읽으며 `research/reading_note_template.md`를 복제해 정독 노트를 남긴다.
