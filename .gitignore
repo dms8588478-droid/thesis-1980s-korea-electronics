@@ -35,3 +35,8 @@ research/pdf_page_images/
 Thumbs.db
 .vscode/
 .idea/
+
+# 관보 원문 페이지 이미지도 스캔 원문과 동일하게 취급한다
+# (조문 전사와 뷰어 URL은 research/source_card_*.md 에 기록되어 있어 재현 가능)
+research/gwanbo_10336/
+**/gwanbo_*/
