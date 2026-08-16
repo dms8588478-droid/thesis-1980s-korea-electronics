@@ -159,6 +159,17 @@
 | `parkyoungkoo_jeonja_volume_acquisition.md` | 박영구 『전자공업』 | — |
 | `offline_primary_source_compendium.md` (2,129행) | **오프라인 사료 집성록. 미검증 산출물** | — |
 
+## 10-A. 【경고】 인용하기 전에 판정을 확인해야 하는 산출물
+
+| 파일 | 판정 |
+|---|---|
+| **`downloaded_papers/` 8건** | **원문이 아니다. 800~1,100바이트의 메타데이터 쪽지이며 「원문 확보」 표기는 허위다.** `agent_files_assessment.md` §1의 판정. **서지 단서로만 쓴다** |
+| `offline_primary_source_compendium.md`(2,129행) | 미검증 |
+| `gazette_archive_audit_4m_dram.md` · `pa_archive_audit_4m_dram.md` · `riss_kci_academic_audit_4m_dram.md` · `media_success_narrative_audit_2024_2026.md` | 미검증(CLAUDE.md 지정) |
+| `aks_oral_history_audit_4m_dram.md` | **인물은 실재하나 반도체·D램 주제 연결은 허위**로 판정됨 |
+
+> **`agent_files_assessment.md`를 먼저 읽는다.** 「파일 단위로 폐기하지 말고 항목 단위로 판정할 것」이 그 결론이다.
+
 ## 11. 관리 문서
 
 `claim_audit_4m_dram.md`(핵심 주장 검증 대장) · `source_verification_plan.md`(조사 계획) · `primary_source_audit_results.md` · `timeline_1980s_electronics.md` · `reading_note_template.md` · `agent_files_assessment.md` · `source_card_folder_remainder.md`(**2026-08-11 「폴더 보유 자료 전체 검토 완료」 선언**) · `source_card_p0_sources.md` · `source_card_national_assembly_library_5items.md`
