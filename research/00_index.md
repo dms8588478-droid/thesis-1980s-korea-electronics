@@ -130,6 +130,7 @@
 | `source_card_song_seongsu_plans.md` | 송성수 계획 내용분석 두 편 |
 | `source_card_us_japan_tech_war_theses.md` | 최용호(2020)·강익현(2024) |
 | `kang_mangil_footnote1.md` | 각주 1번 확정 |
+| **`source_card_kang_mangil_2018_modern_history.md`** | **강만길, 『저작집 09 — 고쳐 쓴 한국현대사』(2018) 책면 420~429면. 1980년대 경제사의 통설. 본고의 심화·보강·원인 규명 셋을 규정한다** | **08-17** | **[확인]** |
 
 ## 9. 소장처 실사 보고서 — **다시 뒤지기 전에 읽는다**
 
