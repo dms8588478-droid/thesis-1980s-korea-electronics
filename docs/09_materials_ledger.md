@@ -6,7 +6,7 @@
 
 ## 0. 결론부터
 
-**저장소의 자료 파일은 314개다. 그 가운데 304개가 이미 사료 카드나 조사 보고서나 계획서에 이름이 나온다.** 이름이 나오지 않는 열 개는 국회 의안 스캔본으로 파일명이 의안번호(`120050_10.PDF` 따위)일 뿐 **내용은 해당 법률 카드에 들어 있다.**
+**저장소의 자료 파일은 373개다. 그 가운데 363개가 이미 사료 카드나 조사 보고서나 계획서에 이름이 나온다.** 이름이 나오지 않는 열 개는 국회 의안 스캔본으로 파일명이 의안번호(`120050_10.PDF` 따위)일 뿐 **내용은 해당 법률 카드에 들어 있다.**
 
 > **곧 폴더는 사실상 전수 조사되어 있다.** `research/source_card_folder_remainder.md`가 **2026년 8월 11일에 「폴더 보유 자료 전체의 논문 관련 부분 검토가 완료됐다」고 선언한 것이 지금도 유효하다.**
 
@@ -18,7 +18,7 @@
 
 | 폴더 | 개수 | 주된 카드 |
 |---|---|---|
-| **(최상위)** | 67 | 부처 간행물·조사기관 보고서·선행연구. `source_card_economic_whitepapers` · `source_card_science_yearbooks_1981_1989` · `source_card_kiet_reports` · `source_card_kst_50years` 등 |
+| **(최상위)** | 68 | 부처 간행물·조사기관 보고서·선행연구. `source_card_economic_whitepapers` · `source_card_science_yearbooks_1981_1989` · `source_card_kiet_reports` · `source_card_kst_50years` 등 |
 | 상공위 (12대 국회) | 37 | `source_card_commerce_committee_1985_1988` |
 | 상공위 (11대 국회) | 33 | `source_card_commerce_committee_1981_1984` |
 | 1981~1982 국회회의록 | 32 | `source_card_assembly_minutes_1981_1982` |
@@ -37,6 +37,10 @@
 | 전자공업진흥법 개정법률안 | 3 | `source_card_1981_ipbeop` |
 | 기사/전자통신동향분석 | 3 | `source_card_etri_trends_journal` |
 | **연구소 보고서** | **8** | **`source_card_policy_institute_reports_8`**(2026-08-17 새로 들어옴) |
+| **특허2** | **44** | **`source_card_patent_applicants_1986_1989`** §4-1. 조합사 계통 출원 3,960행 |
+| **특허** | **15** | 〃 §2. 총괄기관 계통 출원 750행 |
+
+> **【정정 2026-08-17】 처음에 314개라 적었으나 `특허/`와 `특허2/`의 엑셀 59개를 세지 않은 것이었다.** 계획서가 각주 `[^출원인]`·`[^조합사출원]`으로 실제로 쓰는 자료다. **최상위도 강만길이 들어와 67에서 68로 늘었다.**
 
 ---
 
