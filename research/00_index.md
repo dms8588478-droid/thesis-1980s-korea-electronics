@@ -180,7 +180,7 @@
 | `gazette_archive_audit_4m_dram.md` · `pa_archive_audit_4m_dram.md` · `riss_kci_academic_audit_4m_dram.md` · `media_success_narrative_audit_2024_2026.md` | 미검증(CLAUDE.md 지정) |
 | `aks_oral_history_audit_4m_dram.md` | **인물은 실재하나 반도체·D램 주제 연결은 허위**로 판정됨 |
 
-> **판정은 `research/00_verification_ledger.md`에 있다.** 오염 검사(계획서·카드 모두 0건), 집성록의 항목별 판정, 국회 「속기록 5건」이 저장소의 [확인·대조필]과 충돌하는 대목이 거기 정리되어 있다. **「파일 단위로 폐기하지 말고 항목 단위로 판정할 것」이 원칙이다.**
+> **판정은 `research/00_verification_ledger.md`에 있다.** 오염 검사(구상·카드 모두 0건), 집성록의 항목별 판정, 국회 「속기록 5건」이 저장소의 [확인·대조필]과 충돌하는 대목이 거기 정리되어 있다. **「파일 단위로 폐기하지 말고 항목 단위로 판정할 것」이 원칙이다.**
 
 ## 11. 관리 문서
 
