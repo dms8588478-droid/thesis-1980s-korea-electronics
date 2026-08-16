@@ -36,6 +36,7 @@
 | 과학기술연구개발활동조사보고 | 4 | `source_card_rnd_activity_survey` |
 | 전자공업진흥법 개정법률안 | 3 | `source_card_1981_ipbeop` |
 | 기사/전자통신동향분석 | 3 | `source_card_etri_trends_journal` |
+| **연구소 보고서** | **8** | **`source_card_policy_institute_reports_8`**(2026-08-17 새로 들어옴) |
 
 ---
 
