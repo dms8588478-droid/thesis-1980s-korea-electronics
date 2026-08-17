@@ -32,7 +32,7 @@
 | 한국전기통신공사법개정법(+법률안) | 12 | `source_card_telecom_corporation_act_1985` |
 | 선행연구 | 6 | `source_card_prior_studies_2026_08_13` · `source_card_song_seongsu_plans` |
 | 국회도서관 자료 | 5 | `source_card_national_assembly_library_5items` |
-| 기술개발촉진법중개정법 | 5 | `source_card_gisul_gaebal_chokjin` |
+| **기술개발촉진법중개정법** | **8**(2026-08-17 셋 늘었다) | **`source_card_gisul_bill_file_1989`**(1989년 의안 파일 둘·1989년 회의록) · `source_card_assembly_minutes_1981_1982` §3-6(1981년 본회의록) · `source_card_gisul_bill_file_1981` §4-2(심사보고서 표). 1981년 회의록 둘과 `110127_10`은 **기존 판독분과 같은 자료** |
 | 과학기술연구개발활동조사보고 | 4 | `source_card_rnd_activity_survey` |
 | 전자공업진흥법 개정법률안 | 3 | `source_card_1981_ipbeop` |
 | 기사/전자통신동향분석 | 3 | `source_card_etri_trends_journal` |
