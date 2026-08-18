@@ -31,6 +31,9 @@
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
 | 한국전기통신공사법개정법(+법률안) | 12 | `source_card_telecom_corporation_act_1985` |
 | **한국전기통신공사법_국회기록원** | **37**(526면, 2026-08-18 국회기록원에서 내려받음) | **`source_card_telecom_act_nara_37`** |
+| **산업기술연구조합육성법_국회기록원** | **27**(389면, 2026-08-18) | **`source_card_nara_four_laws_110`** §1~3 |
+| **전자공업진흥법_국회기록원** | **14**(212면, 2026-08-18) | 〃 §5 |
+| **기술개발촉진법_국회기록원** | **32**(486면, 2026-08-18) | 〃 §4 |
 | 선행연구 | 6 | `source_card_prior_studies_2026_08_13` · `source_card_song_seongsu_plans` |
 | 국회도서관 자료 | 5 | `source_card_national_assembly_library_5items` |
 | **기술개발촉진법중개정법** | **8**(2026-08-17 셋 늘었다) | **`source_card_gisul_bill_file_1989`**(1989년 의안 파일 둘·1989년 회의록) · `source_card_assembly_minutes_1981_1982` §3-6(1981년 본회의록) · `source_card_gisul_bill_file_1981` §4-2(심사보고서 표). 1981년 회의록 둘과 `110127_10`은 **기존 판독분과 같은 자료** |
