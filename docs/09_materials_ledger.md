@@ -18,7 +18,7 @@
 
 | 폴더 | 개수 | 주된 카드 |
 |---|---|---|
-| **(최상위)** | 68 | 부처 간행물·조사기관 보고서·선행연구. `source_card_economic_whitepapers` · `source_card_science_yearbooks_1981_1989` · `source_card_kiet_reports` · `source_card_kst_50years` 등 |
+| **(최상위)** | **70**(2026-08-18 연감 둘이 늘었다) | 부처 간행물·조사기관 보고서·선행연구. `source_card_economic_whitepapers` · `source_card_science_yearbooks_1981_1989` · `source_card_kiet_reports` · `source_card_kst_50years` 등 |
 | 상공위 (12대 국회) | 37 | `source_card_commerce_committee_1985_1988` |
 | 상공위 (11대 국회) | 33 | `source_card_commerce_committee_1981_1984` |
 | 1981~1982 국회회의록 | 32 | `source_card_assembly_minutes_1981_1982` |
@@ -64,6 +64,17 @@
 | **韓國産業銀行 調査部, 1984, 『尖端産業의 開發戰略』** | `source_card_kdb_1984_frontier_strategy` |
 | **강만길, 2018, 『강만길 저작집 09 — 고쳐 쓴 한국현대사』(창비)** — 발췌 10면 = 책면 420~429면 | **`source_card_kang_mangil_2018_modern_history`**. **저작집 02 『분단시대의 역사인식』과 다른 책이다** |
 | **유상운, 2019, 「국가연구개발사업의 시행과 전개」(서울대 이학박사 학위논문)** — 294면 전문 | **`source_card_yoo_sangwoon_2019_dissertation`**. **제2장이 이 사업이다** |
+
+### 2026년 8월 18일에 새로 들어온 자료
+
+| 자료 | 카드 |
+|---|---|
+| **과학기술처, 『과학기술연감』(1980년판)** — 431면 | **`source_card_science_yearbooks_1981_1989` §9-1**(기존 카드에 절을 더했다) |
+| **科學技術處, 『科學技術年鑑』(1990년판)** — 470면 | 〃 **§9-2** |
+
+**둘 다 기존 카드가 1981~1989년판만 다루었으므로 진짜 새 자료다.** 1990년판 187~188쪽이 4메가 D램을 특정연구개발사업 계열의 대표 성과로 적은 대목만 원고에 반영했고, 나머지는 중복이거나 중심축 밖이어서 카드에만 두었다(§9-3에 판정표가 있다).
+
+---
 
 **그리고 사용자가 이미지로 제공한 신문 기사 열넷**은 폴더에 없는 자료이므로 낱건 카드를 만들었다(『매일경제』 여섯, 『조선일보』 둘, 『경향신문』 둘, 『동아일보』 하나 등).
 

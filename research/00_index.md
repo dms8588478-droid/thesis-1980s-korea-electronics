@@ -110,7 +110,7 @@
 | 카드 | 대상 |
 |---|---|
 | `source_card_economic_whitepapers.md` (703행) | 경제기획원 『經濟白書』 1981~1989 전권 |
-| `source_card_science_yearbooks_1981_1989.md` (828행) | 『과학기술연감』 1981~1989 전권 |
+| `source_card_science_yearbooks_1981_1989.md` (930행) | 『과학기술연감』 **1980~1990** 전권. 1980·1990년판은 2026-08-18에 §9로 더했다(파일명은 그대로) |
 | `source_card_longterm_plan_draft_and_yearbooks.md` | 장기계획 총괄보고서(안)과 연감 1985·1986 |
 | `source_card_sanggong_white_papers.md` | 상공부 『商工白書』 1987·1989 |
 | `source_card_rnd_activity_survey.md` | 『科學技術硏究開發活動調査報告』 4개 연도 |
