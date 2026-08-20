@@ -26,6 +26,7 @@
 | 경제과학위 (1983~1984) | 19 | 〃 |
 | **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_us_japan_semiconductor_holdings` |
 | 석논 모음 | 15 | `source_card_prior_studies_2026_08_13` |
+| **학위논문 모음** | **24**(석사 17·박사 7. `_추출텍스트/`에 판독본 24개가 함께 있다. **`석논 모음` 15편은 이것의 부분집합**) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
 | **대통령기록관** | 14 | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
 | 산업기술연구조합육성법 | 11 | `source_card_research_cooperative_act_1986` · `source_card_national_assembly_bills` |
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
