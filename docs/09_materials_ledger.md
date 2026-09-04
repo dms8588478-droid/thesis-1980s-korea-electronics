@@ -170,7 +170,7 @@ grep -rl "검색어" research/ docs/ drafts/
 
 ## 국가기록원/ — 판독 완료 (2026-08-24)
 
-**열여섯 건 788MB 전부 판독했다.** 협약철 `DA0057281`(174면)은 `research/source_card_hyeobyak_1988.md`,
+**열여섯 건 788MB 전부 판독했다.** 협약철 `DA0057281`(뷰어 174면, 2026-09-04 정보공개청구로 308면 전량 확보)은 `research/source_card_hyeobyak_1988.md`,
 『특정연구개발사업 시행5년』(294면)은 `research/source_card_mosst_5years.md` §8,
 나머지 열넷은 `research/source_card_nara_batch_2026_08_24.md`에 있다.
 **전면 판독한 것은 협약철·시행규칙(16면)·국회도서관 현안분석(31면)이고**,
