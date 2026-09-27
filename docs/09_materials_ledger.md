@@ -26,7 +26,7 @@
 | 경제과학위 (1983~1984) | 19 | 〃 |
 | **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_us_japan_semiconductor_holdings` |
 | **학맥 논문** | **26**(석사 19·박사 7. `_추출텍스트/`에 판독본 26개가 함께 있다. **2026-09-27에 폴더 이름이 바뀌었다** — 옛 `학위논문 모음`(24편)과 `석논 모음`(15편, 부분집합)이 이 폴더 하나로 합쳐졌고 이주호 석논 2012와 조관 석논 2026이 더해졌다. 목차는 `_목차모음(OCR).md`) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
-| **대통령기록관** | **15**(2026-09-27에 大統領秘書室 「電子工業 育成計劃(半導體 및 컴퓨터 關聯産業)」 1976, 17면이 늘었다) | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
+| **대통령기록관** | **16**(2026-09-27에 大統領秘書室의 1976년 문서 둘이 늘었다 — 「電子工業 育成計劃(半導體 및 컴퓨터 關聯産業)」 17면, 「電子交換機 生産과 電子工業 育成」 10면. **원문 PDF는 한 번에 받으면 끊기고 범위 요청으로 나누어 받아야 온전하다**) | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
 | 산업기술연구조합육성법 | 11 | `source_card_research_cooperative_act_1986` · `source_card_national_assembly_bills` |
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
 | 한국전기통신공사법개정법(+법률안) | 12 | `source_card_telecom_corporation_act_1985` |
