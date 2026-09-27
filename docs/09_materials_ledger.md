@@ -37,7 +37,7 @@
 | **전자공업진흥법_국회기록원** | **14**(212면, 2026-08-18) | 〃 §5 |
 | **기술개발촉진법_국회기록원** | **32**(486면, 2026-08-18) | 〃 §4 |
 | **공업발전법_국회기록원** | **11**(243면, 2026-08-18) | 〃 §5-3 |
-| 선행연구 | 6 | `source_card_prior_studies_2026_08_13` · `source_card_song_seongsu_plans` |
+| **선행연구** | **140**(2026-09-27 저녁 기준. 2026-08-13에 6이던 것이 08-23·09-25·09-26·09-27의 보충으로 늘었다. 목록과 편별 정리는 `선행연구/선행연구_목록.md`) | `source_card_prior_studies_2026_08_13` · `source_card_prior_studies_2026_08_23` · `source_card_song_seongsu_plans` · **`source_card_kim_heesook_2025`**(김희숙 2025) · `source_card_kim_seungmi_2024`(김승미 2024) |
 | 국회도서관 자료 | 5 | `source_card_national_assembly_library_5items` |
 | **기술개발촉진법중개정법** | **8**(2026-08-17 셋 늘었다) | **`source_card_gisul_bill_file_1989`**(1989년 의안 파일 둘·1989년 회의록) · `source_card_assembly_minutes_1981_1982` §3-6(1981년 본회의록) · `source_card_gisul_bill_file_1981` §4-2(심사보고서 표). 1981년 회의록 둘과 `110127_10`은 **기존 판독분과 같은 자료** |
 | 과학기술연구개발활동조사보고 | 4 | `source_card_rnd_activity_survey` |
