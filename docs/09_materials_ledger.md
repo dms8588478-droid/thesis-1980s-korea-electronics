@@ -26,7 +26,7 @@
 | 경제과학위 (1983~1984) | 19 | 〃 |
 | **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_us_japan_semiconductor_holdings` |
 | **학맥 논문** | **26**(석사 19·박사 7. `_추출텍스트/`에 판독본 26개가 함께 있다. **2026-09-27에 폴더 이름이 바뀌었다** — 옛 `학위논문 모음`(24편)과 `석논 모음`(15편, 부분집합)이 이 폴더 하나로 합쳐졌고 이주호 석논 2012와 조관 석논 2026이 더해졌다. 목차는 `_목차모음(OCR).md`) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
-| **대통령기록관** | 14 | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
+| **대통령기록관** | **15**(2026-09-27에 大統領秘書室 「電子工業 育成計劃(半導體 및 컴퓨터 關聯産業)」 1976, 17면이 늘었다) | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
 | 산업기술연구조합육성법 | 11 | `source_card_research_cooperative_act_1986` · `source_card_national_assembly_bills` |
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
 | 한국전기통신공사법개정법(+법률안) | 12 | `source_card_telecom_corporation_act_1985` |
@@ -37,7 +37,7 @@
 | **전자공업진흥법_국회기록원** | **14**(212면, 2026-08-18) | 〃 §5 |
 | **기술개발촉진법_국회기록원** | **32**(486면, 2026-08-18) | 〃 §4 |
 | **공업발전법_국회기록원** | **11**(243면, 2026-08-18) | 〃 §5-3 |
-| **선행연구** | **140**(2026-09-27 저녁 기준. 2026-08-13에 6이던 것이 08-23·09-25·09-26·09-27의 보충으로 늘었다. 목록과 편별 정리는 `선행연구/선행연구_목록.md`) | `source_card_prior_studies_2026_08_13` · `source_card_prior_studies_2026_08_23` · `source_card_song_seongsu_plans` · **`source_card_kim_heesook_2025`**(김희숙 2025) · `source_card_kim_seungmi_2024`(김승미 2024) |
+| **선행연구** | **155**(2026-09-27 밤 기준. 2026-08-13에 6이던 것이 08-23·09-25·09-26·09-27의 보충으로 늘었다. 목록과 편별 정리는 `선행연구/선행연구_목록.md`) | `source_card_prior_studies_2026_08_13` · `source_card_prior_studies_2026_08_23` · `source_card_song_seongsu_plans` · **`source_card_kim_heesook_2025`**(김희숙 2025) · `source_card_kim_seungmi_2024`(김승미 2024) |
 | 국회도서관 자료 | 5 | `source_card_national_assembly_library_5items` |
 | **기술개발촉진법중개정법** | **8**(2026-08-17 셋 늘었다) | **`source_card_gisul_bill_file_1989`**(1989년 의안 파일 둘·1989년 회의록) · `source_card_assembly_minutes_1981_1982` §3-6(1981년 본회의록) · `source_card_gisul_bill_file_1981` §4-2(심사보고서 표). 1981년 회의록 둘과 `110127_10`은 **기존 판독분과 같은 자료** |
 | 과학기술연구개발활동조사보고 | 4 | `source_card_rnd_activity_survey` |
