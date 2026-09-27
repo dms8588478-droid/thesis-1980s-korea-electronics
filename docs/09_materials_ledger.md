@@ -25,8 +25,7 @@
 | 경제과학위 (1985~1988) | 22 | `source_card_assembly_minutes_1983_1988` |
 | 경제과학위 (1983~1984) | 19 | 〃 |
 | **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_us_japan_semiconductor_holdings` |
-| 석논 모음 | 15 | `source_card_prior_studies_2026_08_13` |
-| **학위논문 모음** | **24**(석사 17·박사 7. `_추출텍스트/`에 판독본 24개가 함께 있다. **`석논 모음` 15편은 이것의 부분집합**) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
+| **학맥 논문** | **26**(석사 19·박사 7. `_추출텍스트/`에 판독본 26개가 함께 있다. **2026-09-27에 폴더 이름이 바뀌었다** — 옛 `학위논문 모음`(24편)과 `석논 모음`(15편, 부분집합)이 이 폴더 하나로 합쳐졌고 이주호 석논 2012와 조관 석논 2026이 더해졌다. 목차는 `_목차모음(OCR).md`) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
 | **대통령기록관** | 14 | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
 | 산업기술연구조합육성법 | 11 | `source_card_research_cooperative_act_1986` · `source_card_national_assembly_bills` |
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
@@ -47,6 +46,8 @@
 | **연구소 보고서** | **8** | **`source_card_policy_institute_reports_8`**(2026-08-17 새로 들어옴) |
 | **특허2** | **44** | **`source_card_patent_applicants_1986_1989`** §4-1. 조합사 계통 출원 3,960행 |
 | **특허** | **15** | 〃 §2. 총괄기관 계통 출원 750행 |
+
+> **【정정 2026-09-27】 `학위논문 모음/`과 `석논 모음/` 두 폴더가 `학맥 논문/` 하나로 합쳐졌다.** 두 폴더가 겹쳐 있었으므로(석논 15편은 학위논문 24편의 부분집합) 파일 수가 줄고 학위논문 둘이 늘었다. **0절의 374라는 수는 그 전에 센 것이다.** 이 폴더의 현재 보유는 PDF 26편·판독본 26개이며 `학맥 논문/_목차모음(OCR).md`가 26편의 목차를 전수로 담는다.
 
 > **【정정 2026-08-17】 처음에 314개라 적었으나 `특허/`와 `특허2/`의 엑셀 59개를 세지 않은 것이었다.** 구상이 각주 `[^출원인]`·`[^조합사출원]`으로 실제로 쓰는 자료다. **최상위도 강만길이 들어와 67에서 68로 늘었다.**
 
