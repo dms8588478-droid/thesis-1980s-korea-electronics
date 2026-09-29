@@ -208,7 +208,7 @@ PDF 형식은 고려대 지침 확보 후 조정한다. 지도교수 검토를 �
 1. Quarto Book 기본 구조
 2. Zotero 8 + Better BibTeX 자동 export
 3. `source_registry.csv`와 `claim_ledger.csv`
-4. Playwright MCP + 국가기록원/KCI Open API 시험
+4. Playwright MCP + 기록관/국가기록원/KCI Open API 시험
 5. 대표 사료 20쪽 OCR benchmark
 6. `quarto render`, 인용키 존재 여부, 링크 오류를 검사하는 CI
 
