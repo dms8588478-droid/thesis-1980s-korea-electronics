@@ -197,6 +197,7 @@
 | `riss_kci_academic_audit_4m_dram.md` · `krm_portal_audit_4m_dram.md` · `kci_researcher_survey_industrial_policy_us_korea.md` | RISS·KCI·KRM |
 | `stepi_report_audit_4m_dram.md` · `kdi_api_audit_4m_dram.md` | STEPI·KDI |
 | `aks_oral_history_audit_4m_dram.md` · `waks_portal_audit_4m_dram.md` | 한국학중앙연구원 |
+| **`source_card_unread_sources_2026_09_30.md`** | **미판독 자료 판독.** 【부재확인】 1990년 8월 과학기술처의 우수연구개발 성공사례 마흔아홉에 **한국전자통신연구소와 4메가 디램이 없다.** 1991년 상공부 반도체·반도체장비연구개발기획단의 수요조사는 조합 제2·3분과가 하려다 재원을 얻지 못한 소재·장비를 다섯 해 뒤 다시 과제로 세웠다 | 09-30 |
 | **`source_card_advisory_committee_1986_members.md`** | **4메가 디램 자문위원회가 1986년 11월 15일에 구성될 때의 열두 명.** 『전자신문』 1986.11.17의 명단을 당대 신문과 저장소 1차 사료로 하나씩 대조했다. 열둘 가운데 **대학의 몫은 서울대 반도체연구소장 하나**이고, 1987년 6월 제2차 회의 참석자 열한 명에는 그와 총괄기관 반도체사업단장이 없다. **서정욱의 1986년 직책은 확정하지 못해 유보로 두었다** | 09-30 |
 | **`source_card_newspaper_harvest_2026_09_30.md`** | **【최상급】 네이버 뉴스라이브러리·빅카인즈 API 전수 수집 6,538건**(네이버 5,640·빅카인즈 898). 원고가 인용한 기사 일곱 종을 실물 대조해 **면 셋을 고쳤다**. **빅카인즈에 『전자신문』이 1985년부터 수록**되어 있고 전문을 주는데, 조합의 명칭이 「VLSI연구조합」에서 바뀐 경위와 **1986년 9월 8일 체신부차관의 거중조정으로 삼성 4 : 금성 3 : 현대 3에 합의**한 것과 **공동연구가 실질적으로는 단독연구였다는 1989년의 결산**이 여기 있다 | 09-30 |
 | `newspaper_archive_audit_1985_1993.md` · `donga_archive_feasibility.md` | 신문 아카이브 |
