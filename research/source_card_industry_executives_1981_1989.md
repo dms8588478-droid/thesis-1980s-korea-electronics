@@ -4,7 +4,7 @@
 
 > ### **왜 이것이 값이 큰가**
 >
-> **본 연구는 본줄기를 「대자본이 지원의 대상에서 발의자로 올라선 국면」으로 정했다**(`docs/12_thesis_frame_model.md` §7-1). **그 구도의 가장 큰 약점이 기업 쪽 자료가 없다는 것이었다.** 이 열하나 가운데 **셋이 조합사의 현직 임원이 당대에 쓴 글**이다.
+> **본 연구는 본줄기를 「대자본이 지원의 대상에서 발의자로 올라선 국면」으로 정했다**(`docs/13_thesis_frame_model.md` §7-1). **그 구도의 가장 큰 약점이 기업 쪽 자료가 없다는 것이었다.** 이 열하나 가운데 **셋이 조합사의 현직 임원이 당대에 쓴 글**이다.
 
 ---
 
@@ -359,4 +359,4 @@
 
 ---
 
-관련: [[00_index]] · [[source_card_prior_studies_2026_09_28]] · [[source_card_yoo_sangwoon_2019_dissertation]] · `docs/10_copy_request_list.md` §8 · `docs/12_thesis_frame_model.md`
+관련: [[00_index]] · [[source_card_prior_studies_2026_09_28]] · [[source_card_yoo_sangwoon_2019_dissertation]] · `docs/10_copy_request_list.md` §8 · `docs/13_thesis_frame_model.md`

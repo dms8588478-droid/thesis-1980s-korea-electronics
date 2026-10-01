@@ -211,6 +211,9 @@ grep -rl "검색어" research/ docs/ drafts/
 회신 압축파일 넷에는 별도 공문 없이 같은 PDF만 들어 있다.
 **표지와 첫 면만 읽었고 본문 판독은 남았다.** 카드는 `research/source_card_nara_foia_2026_09_01.md`.
 
+> **【갱신 2026-10-02】** 본문 판독은 끝났다(`research/source_card_nara_foia_2026_09_01.md`, 판독 대장 [판독]). 판독 상태는 `docs/12_reading_ledger.md`를 정본으로 본다.
+
+
 ---
 
 ## 産業硏究院 『KIET 通商白書』 (2026-09-26 입수, 09-27 판독)
