@@ -111,7 +111,7 @@
 | `source_card_etri_trends_journal.md` | 『전자통신동향분석』 1986~1990 | 08-14 |
 | `source_card_etri_sasa_diachronic.md` | ETRI 기관사의 서술 변화(1988→1995→1998) | 08-09 |
 | `source_card_cooperative_1988_interview.md` | **조합 사무국장 대담**(『전자진흥』 8-5, 1988). **10-01 §7: 조합의 HAN 기획안(1992) 원문 판독** | 08-14·10-01 |
-| **`source_card_jeonja_jinheung_1981_1990.md`** | **『전자진흥』 1981~1990년 기사 2,305편 목록 전수 검색(10-01).** 원고에 닿는 서른다섯 편을 장절별로 골랐다. 원문은 ScienceON에서 무료 | 10-01 |
+| **`source_card_jeonja_jinheung_1981_1990.md`** | **『전자진흥』 1981~1990년 기사 2,305편 목록 전수 검색(10-01).** 원고에 닿는 서른다섯 편을 장절별로 골랐다. **같은 날 서른다섯 편을 모두 받아 판독했다(§4) — 1984.1 좌담회의 조합 문답, 1985 한국전자 사장의 공동연구 건의와 30퍼센트 상한 개정 요구, 1983.1 정부투자기업 0.5~1퍼센트 적립 방안** | 10-01 |
 | `source_card_mosst_5years.md` | 과기처 『특정연구개발사업 시행5년』(1987.12) | — |
 | `source_card_industrial_base_technology_program.md` | **공업기반기술개발사업**(상공부, 1987~) | 08-13 |
 | `source_card_public_enterprise_budgets.md` | 『정부투자기관 예산개요』 1987~89 | — |
