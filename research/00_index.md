@@ -69,7 +69,7 @@
 |---|---|---|
 | `source_card_1986_gongdong.md` | **재가 문서**(1986.8.22) | 08-08 |
 | `source_card_presidential_approval_1986.md` | 같은 문서 보유분 | 08-17 |
-| `source_card_1981_yuksung.md` | 1981.05 전자공업육성계획·반도체공업육성계획 | 08-08 |
+| `source_card_1981_yuksung.md` | 1981.05 전자공업육성계획·반도체공업육성계획 — **두 문서 모두 [판독]**(10-01 §7·§8: 위원회 설계, 기금 1,500억과 부총리 메모, 5월과 9월의 정책기조 대비) | 08-08·10-01 |
 | `source_card_pa_archive_search_2026_08_13.md` | **대통령기록관 기록물검색 전수 조사** | 08-13 |
 | `pa_instruction_db_findings.md` | 대통령기록관 지시사항 DB 「반도체」 검색 | 08-12 |
 | `source_card_tech_promotion_meeting_audio.md` | **기술진흥확대회의 대통령 지시말씀 녹음 셋**(국가기록원 동영상 CEA0003629·CEA0003678·CEA0004041 — 1982.6.4, 1982.10.20, 1985.6.28). 뷰어 재생음을 녹음해 받아쓰고 교정한 초안. **1985.6.28의 「국책연구개발사업을 범부처적 차원으로 확대」와 부처 간 협조 경고** | 09-14 |
@@ -114,7 +114,7 @@
 | `source_card_mosst_5years.md` | 과기처 『특정연구개발사업 시행5년』(1987.12) | — |
 | `source_card_industrial_base_technology_program.md` | **공업기반기술개발사업**(상공부, 1987~) | 08-13 |
 | `source_card_public_enterprise_budgets.md` | 『정부투자기관 예산개요』 1987~89 | — |
-| `source_card_chesinbu_1988.md` | 체신부 「전기통신에 관한 연차보고서」(1988) | 08-10 |
+| `source_card_chesinbu_1988.md` | 체신부 「전기통신에 관한 연차보고서」(1988) — **[판독]**. **§2의 「4M DRAM은 실험시제품이 전부」를 10-01 §5-1에서 정정** | 08-10·10-01 |
 
 ## 5. 부처 간행물·통계
 
@@ -124,7 +124,7 @@
 | `source_card_science_yearbooks_1981_1989.md` (930행) | 『과학기술연감』 **1980~1990** 전권. 1980·1990년판은 2026-08-18에 §9로 더했다(파일명은 그대로) |
 | `source_card_longterm_plan_draft_and_yearbooks.md` | 장기계획 총괄보고서(안)과 연감 1985·1986 |
 | `source_card_sanggong_white_papers.md` | 상공부 『商工白書』 1987·1989 |
-| `source_card_rnd_activity_survey.md` | 『科學技術硏究開發活動調査報告』 4개 연도 |
+| `source_card_rnd_activity_survey.md` | 『科學技術硏究開發活動調査報告』 4개 연도 — **10-01 §9: 계상 기준 확인. 정부투자기관은 민간부문** |
 | `source_card_kst_50years.md` (522행) | 『과학기술 50년사』(2017) 3편 |
 | `source_card_most_2006_report.md` (764행) | 과기부 2006년 보고서 |
 
