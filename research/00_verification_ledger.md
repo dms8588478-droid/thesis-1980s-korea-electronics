@@ -6,6 +6,9 @@
 >
 > **【수 갱신 2026-08-17】 `*_audit_*.md`는 지금 열여덟이다.** 2026년 8월 9일의 전수 검증 시점에는 **정확히 열다섯**이었고(그날의 트리로 확인), **8월 12일에 넷이 더 들어왔다** — `archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram`·`archive/2026-08_에이전트산출물.md#pa_archive_audit_4m_dram`·`archive/2026-08_에이전트산출물.md#riss_kci_academic_audit_4m_dram`·`media_success_narrative_audit_2024_2026`이며 **넷 모두 CLAUDE.md가 낱개로 지목한 다섯 안에 있으므로 판정에 빠진 것은 없다.** 하나는 8월 12일에 지워졌다. **곧 15는 그때의 수이고 18이 지금의 수다.**
 
+> **【갱신 2026-10-01】** 이 계산(「15에서 넷을 더하고 하나를 지웠다」)은 git 이력과 맞지 않는다. `*_audit_*`은 2026-08-09에 열넷(`99628c2`)이었고 gazette·pa·riss·media 넷이 더해져 열여덟이 되었다(gazette·pa·riss는 08-12에 추적에서 빠졌다가 08-15 `8ad424e`로 다시 들어왔다). 「CLAUDE.md가 낱개로 지목한 다섯」은 현행 CLAUDE.md에 없다. 2026-10-01 현재 `research/`에 남은 `*_audit_*`은 `media_success_narrative_audit_2024_2026.md`와 `source_card_folder_audit_2026_09_30.md` 둘뿐이고 나머지는 보관 파일에 있다.
+
+
 ---
 
 ## 0. 오염 검사 — **깨끗하다** [확인 2026-08-17]
@@ -48,6 +51,9 @@
 | **§4** (1110~1165행) | RISS·KCI 「100% 실존 교차 검증」 4건 | — | **내부 모순.** 아래 3절 |
 | §5 (1166~1213행) | 국가기록원 관보 3건 | `source_card_research_cooperative_act_1986.md#source_card_gwanbo_10336`와 겹침 | 겹치는 부분만 유효 |
 | **§6** (1214~ ) | **국회 회의록 「속기록 5건」** | — | **사실과 어긋난다.** 아래 4절 |
+
+> **【갱신 2026-10-01】** 이 판정은 절반만 맞다. 195~238행(§2-2)은 재가 문서 카드가 아니라 미검증 `pa_archive_audit`의 사본이었고, 239~322행 「원문 25페이지 전체 전사」는 쪽 표시만 있고 본문이 비어 있었다. §5는 관보 카드와 겹치는 것이 아니라 서지가 모두 틀린 `gazette_archive_audit`의 사본이므로 유효한 부분이 없다. 이 표는 §1~§6만 다루며, 2026-10-01의 줄 단위 대조로 §7~§15도 모두 다른 파일의 사본(91~100%)임이 드러났다. 그래서 집성록을 원본 대응표와 고유한 줄만 남기고 줄였다(`research/offline_primary_source_compendium.md`).
+
 
 > **곧 집성록 2,128행 가운데 약 절반(§2·§3, 1,085행)은 이 저장소가 이미 검증해 둔 카드를 옮긴 것이고, 나머지에 검증되지 않은 서술이 들어 있다.**
 >
@@ -132,6 +138,9 @@
 
 **남은 것 하나.** 예결위 제7차의 **질의 과정에서** 이 사업이나 879억 원이 거론되었는지는 회의록 본문을 보아야 안다. **회의록 식별자는 `fn_fileDown('013880','0000057574','P')`이며 시스템에서 내려받을 수 있다.** 검색 기능은 프로그램 질의에 응답하지 않아 본문 대조는 하지 못했다. **다만 「안건으로 올랐는가」와 「질의에서 거론되었는가」는 다른 물음이고, 구상이 주장하는 것은 앞의 것이다.**
 
+> **【갱신 2026-10-01】** 해소되었다. 2026-09-14에 회의록 본문을 대조해 질의 과정에서 이 사업이 거론되지 않았음을 확인했다(`research/source_card_assembly_minutes_1983_1989.md`, 인계 §7-1).
+
+
 ### ④ 사업 기간이 후속 사업과 뒤섞였다
 
 > ⑤ (…) 초고집적반도체기술 공동개발사업 **4차년도 최종 평가결과(1993년 12월 완료 예정)**
@@ -149,6 +158,9 @@
 | 3 | 과학기술처(1992) 『특정연구개발사업 10년…』 원문 | 「특정연구개발사업 처리규정」의 원문을 수록했다는 주장의 진위 |
 | 4 | 국회 Open API `ncwgseseafwbuheph`의 필수 인자 | **엔드포인트는 검증을 통과했다.** 인자만 확정하면 회의록을 직접 질의할 수 있다 |
 | 5 | `downloaded_papers/` → `citation_leads/`로 이름 바꾸기 | `research/00_verification_ledger.md#부록-에이전트-파일-평가` §5-1의 권고. **아직 반영되지 않았다.** **[재확인 2026-08-17]** 폴더가 그대로 있고 안의 여덟 파일은 **791~1,143바이트**다. **논문 원문이 아니라 쪽지라는 판정이 파일 크기로 다시 확인된다** |
+
+> **【갱신 2026-10-01】** 「특정연구개발사업 처리규정」은 2026-08-23에 이장재(1993) 부록으로 확보했다. downloaded_papers 8건 가운데 정준석·김광석·권원기(權五基)·이종욱(李鍾郁·劉鍾九) 등 다섯은 실물을 확보했고 STEPI(1994)는 부재로 판정했다(`research/source_card_prior_studies_2026_08_23.md`).
+
 
 ---
 
@@ -177,6 +189,9 @@
 | **① 저장소가 만든 항해 문서** | 4 | `00_index`·`00_verification_ledger`·`research/00_verification_ledger.md#부록-에이전트-파일-평가`·`source_verification_plan` | **판정과 순위의 근거로 쓴다** |
 | **② 저장소가 만든 조사 기록** | 16 | `joongang_archive_survey_1981_1989`·`p1`~`p5`·`pa_instruction_db_findings`·`kang_mangil_footnote1`·`kci_researcher_survey`·`archive/2026-08_에이전트산출물.md#new_investigation_3cases`·`research/source_card_donga_articles.md#옛-동아-아카이브-가능성`·`p2_missing_sources_investigation`·`parkyoungkoo_jeonja_volume_acquisition`·`archive/2026-08_에이전트산출물.md#timeline_1980s_electronics`·`archive/2026-08_에이전트산출물.md#reading_note_template` 등 | **경로와 식별자는 쓴다.** 사실 주장은 카드로 확인한 것만 |
 | **③ 다른 에이전트의 미검증 산출물** | 18 | `*_audit_*.md` 전부 | **「어디를 찾아볼까」의 목록으로만.** 인용 불가 |
+
+> **【갱신 2026-10-01】** `p1_online_sources_audit`과 `new_investigation_3cases`는 ②가 아니라 **③ Gemini 산출물**이다(`archive/2026-08_초기기획.md`의 원 `consulting/workflow_multiagent.md` §4 「실제 발생 오류 유형」과 정확히 맞는다). 2026-10-01에 두 파일을 포함한 미검증 산출물 스물두 편을 `archive/2026-08_에이전트산출물.md`로 모았다.
+
 
 > **①과 ②를 ③과 같이 다루면 쓸 수 있는 것을 버리게 되고, ③을 ①과 같이 다루면 없는 사실을 인용하게 된다.** `p5_assembly_minutes_locations`가 준 회의록 식별자와 `pa_instruction_db_findings`가 준 지시사항 네 건은 실제로 구상의 논거가 되었다.
 

@@ -129,6 +129,9 @@
 
 ## 8. 구상 반영과 다음 조사
 
+> **【갱신 2026-10-01】** 다음 조사 1의 鉱工業技術研究組合法은 `research/source_card_kwon_1988_research_cooperatives.md` §3과 `research/source_card_yeom_1990_vlsi.md` §2-라가 다룬다. 5의 「연재 나머지 회차」는 수집 폴더에 〈2〉~〈4〉가 있고 〈4〉(1985.4.19 6면)는 `research/source_card_newspaper_harvest_2026_09_30.md` §3-6-1이 판독했다.
+
+
 | 자료 | 반영 |
 |---|---|
 | 국제 선례(일본 VLSI 조합·미국 SRC·EC ESPRIT) | **제3장 제2절 본문의 서술을 정정** |

@@ -138,4 +138,7 @@
 | 3 | 공업발전법 시행규칙(상공부령 제709호) 전문 | 합리화업종 지정 절차 |
 | 4 | **국가기록원 관보 원문 대조** | 위 셋의 관보 확인. 법령정보센터는 편집본이므로 관보로 대조한다 |
 
+> **【정정 2026-10-01】** 조합육성법 부칙 ③은 기술개발촉진법 「제10조의3을 削除」한다(`research/source_card_research_cooperative_act_1986.md` 끝의 합친 관보 제10336호 판독). 이 항목은 해소되었다.
+
+
 관련: [[00_index]] · [[source_card_research_cooperative_act_1986]] · [[source_card_research_cooperative_act_1986]] · [[source_card_national_assembly_bills]] · [[source_card_1981_ipbeop]] · [[source_card_kang_mangil_2018_modern_history]]
