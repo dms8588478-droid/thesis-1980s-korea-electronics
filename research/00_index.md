@@ -190,20 +190,20 @@
 
 | 보고서 | 소장처 |
 |---|---|
-| `pa_archive_audit_4m_dram.md` | 대통령기록관 |
-| `gazette_archive_audit_4m_dram.md` | **국가기록원 관보 서비스** |
-| `nanet_library_audit_4m_dram.md` | 국회도서관 |
-| `nl_library_audit_4m_dram.md` | 국립중앙도서관 |
-| `nikh_archive_audit_4m_dram.md` · `nikh_publication_audit_4m_dram.md` | 국사편찬위원회 |
-| `riss_kci_academic_audit_4m_dram.md` · `krm_portal_audit_4m_dram.md` · `kci_researcher_survey_industrial_policy_us_korea.md` | RISS·KCI·KRM |
-| `stepi_report_audit_4m_dram.md` · `kdi_api_audit_4m_dram.md` | STEPI·KDI |
-| `aks_oral_history_audit_4m_dram.md` · `waks_portal_audit_4m_dram.md` | 한국학중앙연구원 |
+| `archive/2026-08_에이전트산출물.md#pa_archive_audit_4m_dram` | 대통령기록관 |
+| `archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram` | **국가기록원 관보 서비스** |
+| `archive/2026-08_에이전트산출물.md#nanet_library_audit_4m_dram` | 국회도서관 |
+| `archive/2026-08_에이전트산출물.md#nl_library_audit_4m_dram` | 국립중앙도서관 |
+| `archive/2026-08_에이전트산출물.md#nikh_archive_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#nikh_publication_audit_4m_dram` | 국사편찬위원회 |
+| `archive/2026-08_에이전트산출물.md#riss_kci_academic_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#krm_portal_audit_4m_dram` · `kci_researcher_survey_industrial_policy_us_korea.md` | RISS·KCI·KRM |
+| `archive/2026-08_에이전트산출물.md#stepi_report_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#kdi_api_audit_4m_dram` | STEPI·KDI |
+| `archive/2026-08_에이전트산출물.md#aks_oral_history_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#waks_portal_audit_4m_dram` | 한국학중앙연구원 |
 | **`source_card_unread_sources_2026_09_30.md`** | **미판독 자료 판독.** 【부재확인】 1990년 8월 과학기술처의 우수연구개발 성공사례 마흔아홉에 **한국전자통신연구소와 4메가 디램이 없다.** 그 까닭은 §1-A에서 둘로 좁혔다 — 그 책의 사례 단위가 출연연구기관 한 연구실의 팀이고, 1990년 연감은 이 기술선을 16/64메가로 넘어간 진행 과제로 적었다. §3은 「아직 남은 것」 넷을 모두 판독해 **사업이 끝난 달에 총괄기관이 ECR 식각장치를 직접 설계·제작한 보고서**와 **ETRI가 1993년에 적은 「DRAM을 제외한 거의 모든 부분에서 열세」**를 얻었다. 1991년 상공부 반도체·반도체장비연구개발기획단의 수요조사는 조합 제2·3분과가 하려다 재원을 얻지 못한 소재·장비를 다섯 해 뒤 다시 과제로 세웠다 | 09-30 |
 | **`source_card_advisory_committee_1986_members.md`** | **4메가 디램 자문위원회가 1986년 11월 15일에 구성될 때의 열두 명.** 『전자신문』 1986.11.17의 명단을 당대 신문과 저장소 1차 사료로 하나씩 대조했다. 열둘 가운데 **대학의 몫은 서울대 반도체연구소장 하나**이고, 1987년 6월 제2차 회의 참석자 열한 명에는 그와 총괄기관 반도체사업단장이 없다. **서정욱의 1986년 직책은 확정하지 못해 유보로 두었다** | 09-30 |
 | **`source_card_newspaper_harvest_2026_09_30.md`** | **【최상급】 네이버 뉴스라이브러리·빅카인즈 API 전수 수집 6,538건**(네이버 5,640·빅카인즈 898). 원고가 인용한 기사 일곱 종을 실물 대조해 **면 셋을 고쳤다**. **빅카인즈에 『전자신문』이 1985년부터 수록**되어 있고 전문을 주는데, 조합의 명칭이 「VLSI연구조합」에서 바뀐 경위와 **1986년 9월 8일 체신부차관의 거중조정으로 삼성 4 : 금성 3 : 현대 3에 합의**한 것과 **공동연구가 실질적으로는 단독연구였다는 1989년의 결산**이 여기 있다 | 09-30 |
-| `newspaper_archive_audit_1985_1993.md` · `donga_archive_feasibility.md` | 신문 아카이브 |
-| `assembly_minutes_audit_1985_1993.md` · `sanggong_baekseo_audit_1985_1990.md` | 회의록·상공백서 |
-| `p1_online_sources_audit.md` · `p2_archives_api_findings.md` | 온라인 DB 총괄 |
+| `archive/2026-08_에이전트산출물.md#newspaper_archive_audit_1985_1993` · `research/source_card_donga_articles.md#옛-동아-아카이브-가능성` | 신문 아카이브 |
+| `archive/2026-08_에이전트산출물.md#assembly_minutes_audit_1985_1993` · `archive/2026-08_에이전트산출물.md#sanggong_baekseo_audit_1985_1990` | 회의록·상공백서 |
+| `archive/2026-08_에이전트산출물.md#p1_online_sources_audit` · `research/source_card_archives_openapi_2026_08_17.md#옛-p2-API-질의` | 온라인 DB 총괄 |
 
 ## 10. 미해결 추적 보고서
 
@@ -212,7 +212,7 @@
 | `p3_jichim_acquisition.md` | **「特定硏究課題管理指針」** | 미확보. **재가 문서가 이 지침을 명시하므로 1순위** |
 | `p4_hyeopjeongseo_and_isahoe.md` | 「연구관리 기본협정서」·ETRI 이사회 | **[확보] 09-30 — 원문 전 18조가 `DA0058967` 건 12 철 144~146면에 있다** |
 | `p2_missing_sources_investigation.md` | 미확인 사료 4건 | — |
-| `new_investigation_3cases.md` | 공사·지침·조합 고시 | — |
+| `archive/2026-08_에이전트산출물.md#new_investigation_3cases` | 공사·지침·조합 고시 | — |
 | `parkyoungkoo_jeonja_volume_acquisition.md` | 박영구 『전자공업』 | — |
 | `offline_primary_source_compendium.md` (2,129행) | **오프라인 사료 집성록. 미검증 산출물** | — |
 
@@ -220,18 +220,18 @@
 
 | 파일 | 판정 |
 |---|---|
-| **`downloaded_papers/` 8건** | **원문이 아니다. 800~1,100바이트의 메타데이터 쪽지이며 「원문 확보」 표기는 허위다.** `agent_files_assessment.md` §1의 판정. **서지 단서로만 쓴다** |
+| **`downloaded_papers/` 8건** | **원문이 아니다. 800~1,100바이트의 메타데이터 쪽지이며 「원문 확보」 표기는 허위다.** `research/00_verification_ledger.md#부록-에이전트-파일-평가` §1의 판정. **서지 단서로만 쓴다** |
 | `offline_primary_source_compendium.md`(2,129행) | 미검증 |
-| `gazette_archive_audit_4m_dram.md` · `pa_archive_audit_4m_dram.md` · `riss_kci_academic_audit_4m_dram.md` · `media_success_narrative_audit_2024_2026.md` | 미검증(CLAUDE.md 지정) |
-| `aks_oral_history_audit_4m_dram.md` | **인물은 실재하나 반도체·D램 주제 연결은 허위**로 판정됨 |
+| `archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#pa_archive_audit_4m_dram` · `archive/2026-08_에이전트산출물.md#riss_kci_academic_audit_4m_dram` · `media_success_narrative_audit_2024_2026.md` | 미검증(CLAUDE.md 지정) |
+| `archive/2026-08_에이전트산출물.md#aks_oral_history_audit_4m_dram` | **인물은 실재하나 반도체·D램 주제 연결은 허위**로 판정됨 |
 
 > **판정은 `research/00_verification_ledger.md`에 있다.** 오염 검사(구상·카드 모두 0건), 집성록의 항목별 판정, 국회 「속기록 5건」이 저장소의 [확인·대조필]과 충돌하는 대목이 거기 정리되어 있다. **「파일 단위로 폐기하지 말고 항목 단위로 판정할 것」이 원칙이다.**
 
 ## 11. 관리 문서
 
-`claim_audit_4m_dram.md`(핵심 주장 검증 대장) · `source_verification_plan.md`(조사 계획) · `primary_source_audit_results.md` · `timeline_1980s_electronics.md` · `reading_note_template.md` · `agent_files_assessment.md` · `source_card_folder_remainder.md`(**2026-08-11 「폴더 보유 자료 전체 검토 완료」 선언**) · `source_card_p0_sources.md` · `source_card_national_assembly_library_5items.md`
+`archive/2026-08_에이전트산출물.md#claim_audit_4m_dram`(핵심 주장 검증 대장) · `source_verification_plan.md`(조사 계획) · `archive/2026-08_에이전트산출물.md#primary_source_audit_results` · `archive/2026-08_에이전트산출물.md#timeline_1980s_electronics` · `archive/2026-08_에이전트산출물.md#reading_note_template` · `research/00_verification_ledger.md#부록-에이전트-파일-평가` · `source_card_folder_remainder.md`(**2026-08-11 「폴더 보유 자료 전체 검토 완료」 선언**) · `archive/2026-08_에이전트산출물.md#source_card_p0_sources` · `source_card_national_assembly_library_5items.md`
 
-> **`agent_files_assessment.md`와 CLAUDE.md가 지목한 미검증 산출물 다섯은 검증 전에 논거로 쓰지 않는다.**
+> **`research/00_verification_ledger.md#부록-에이전트-파일-평가`와 CLAUDE.md가 지목한 미검증 산출물 다섯은 검증 전에 논거로 쓰지 않는다.**
 
 ---
 

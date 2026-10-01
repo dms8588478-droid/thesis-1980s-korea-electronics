@@ -3,7 +3,7 @@
 - **확인일**: 2026-08-09
 - **경로**: 국회회의록 시스템 `record.assembly.go.kr` — 제12대 전체회의록 → 상임위원회 → 상공위원회
 - **연계**: `source_verification_plan.md` P1-6, 주장 02·14
-- **선행 시도와의 관계**: 국회 Open API(`ncwgseseafwbuheph`)는 엔드포인트 실재가 확인됐으나 필수 인자를 확정하지 못했다(`agent_files_assessment.md` §4-3). **이 사이트가 API보다 직접적이고 확실한 경로다.**
+- **선행 시도와의 관계**: 국회 Open API(`ncwgseseafwbuheph`)는 엔드포인트 실재가 확인됐으나 필수 인자를 확정하지 못했다(`research/00_verification_ledger.md#부록-에이전트-파일-평가` §4-3). **이 사이트가 API보다 직접적이고 확실한 경로다.**
 
 ---
 

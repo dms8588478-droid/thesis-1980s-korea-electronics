@@ -261,7 +261,7 @@ EOF
 ### 2-6. 인용 제약
 
 - 신문 기사는 **최소 인용 + 지면 대조** 원칙
-- 다른 에이전트의 미검증 산출물(`gazette_archive_audit_4m_dram.md`, `pa_archive_audit_4m_dram.md`, `riss_kci_academic_audit_4m_dram.md`, 수정된 `offline_primary_source_compendium.md`, `media_success_narrative_audit_2024_2026.md`)은 **검증 전 커밋·논거 사용 금지**
+- 다른 에이전트의 미검증 산출물(`archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram`, `archive/2026-08_에이전트산출물.md#pa_archive_audit_4m_dram`, `archive/2026-08_에이전트산출물.md#riss_kci_academic_audit_4m_dram`, 수정된 `offline_primary_source_compendium.md`, `media_success_narrative_audit_2024_2026.md`)은 **검증 전 커밋·논거 사용 금지**
 - **API key는 어떤 저장소 파일에도 기록하지 않는다**
 - `git add`는 **명시적 경로만** 쓴다
 
@@ -753,7 +753,7 @@ for k in 라벨1 라벨2; do u=$(grep -c "\[\^$k\]" drafts/thesis_conception.qmd
 | **사료 카드 68편** | 연구소 보고서 카드에 **백영현**이 두 곳 남아 있었다(자기 정정을 적어 두고 표기를 안 고쳤다). **「최우선」이 카드 스물다섯 편에 서른여섯 번** 나와 순위가 무의미했다. 조사일이 없는 카드가 여섯 | 모두 고침. **색인에 「최우선은 인계 §7-1이 정한다」를 박음** |
 | **이 문서** | 각주 수·카드 수가 실제와 달랐다. 정정 이력 표가 **빈 줄로 갈라져 뒤쪽에 머리가 없었다.** **연표의 시간 순서가 여러 곳에서 어긋나** 있었다. 오프셋 표에 강만길이 없었다 | 모두 고침 |
 
-| **조사 보고서 38편** | 판정 대장이 지목한 **「조합육성법 법률 제3833호 개정」**이 지목되지 않은 `p1_online_sources_audit`에도 있었다(제3851호 제정이 옳다). 같은 표가 **제3조를 인가 조문**이라 적어 축3의 논거와 어긋났다 | 고침. **패턴이 아니라 성격으로 갈라 판정** |
+| **조사 보고서 38편** | 판정 대장이 지목한 **「조합육성법 법률 제3833호 개정」**이 지목되지 않은 `archive/2026-08_에이전트산출물.md#p1_online_sources_audit`에도 있었다(제3851호 제정이 옳다). 같은 표가 **제3조를 인가 조문**이라 적어 축3의 논거와 어긋났다 | 고침. **패턴이 아니라 성격으로 갈라 판정** |
 
 ### 7-0-2. 그 뒤에 한 것 (2026-08-17 후반)
 
