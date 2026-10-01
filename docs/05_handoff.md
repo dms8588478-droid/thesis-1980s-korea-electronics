@@ -80,7 +80,7 @@ grep -rl "검색어" research/ docs/ drafts/
 | **`tools/build_v2/fn_v2.json`** | **각주 본문 255개(2026-10-02).** 각주를 고치면 여기를 고친다 |
 | `drafts/thesis_v2.md` | part1~5와 각주를 합친 전체본. `tools/build_v2/assemble.py`가 만든다 — **손으로 고치지 않는다** |
 | `drafts/thesis_v2_presentation.md` | 발표문 판(국문초록·표 목차·참고문헌을 뺀 것). `mkpres.py`가 만든다 |
-| **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 00:48, 224,768바이트**(각주 253개·표 9종·첫 줄 제목 확인) |
+| **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 01:20, 226,304바이트**(각주 255개·표 9종·첫 줄 제목 확인) |
 | `drafts/thesis_plan.qmd` | 논문계획. 유보·조사 계획 — 지금도 쓴다 |
 | ~~`drafts/thesis_conception.qmd`·`thesis_draft.qmd`~~ | **9월 29일에 멈춘 종전 원고.** 새 내용을 넣지 않는다. CLAUDE.md의 「구상과 초고 둘 다에 넣는다」는 이 둘을 두고 한 말이다 |
 
