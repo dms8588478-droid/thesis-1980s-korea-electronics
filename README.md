@@ -1,51 +1,26 @@
-# 1980년대 한국 전자산업 — 석사논문 컨설팅 워크스페이스
+# 1980년대 전자공업 — 석사학위논문 저장소
 
-고려대학교 사학과 석사학위논문 작성을 지원하기 위한 **FDE(Forward Deployed) 컨설팅** 작업 저장소.
-현재 권고 주제: **1986~1989년 4M DRAM 공동개발사업의 형성과 운영을 통해 본 정부·ETRI·참여기업의 관계**.
+고려대학교 한국사학과 석사학위논문(1986년 초고집적반도체기술 공동개발사업)의 작업 저장소다. 규칙은 `CLAUDE.md`에 있다.
 
-> 컨설턴트 역할: 연구자가 사료 확보 → 정독 → 목차 → 초고 → 각주·서지 정리에 이르는 전 과정을
-> 막힘없이 진행하도록 자료 경로·연구 관리 체계·문헌 템플릿을 선제적으로 준비한다.
-> 컨설턴트는 **자료·방법·틀**을 제공하고, 논지와 해석은 연구자 본인이 만든다.
+## 어디부터 읽는가
 
-## 저장소 구조
+| 차례 | 문서 | 구실 |
+|---|---|---|
+| 1 | `CLAUDE.md` | 작업 규칙 |
+| 2 | `docs/05_handoff.md` | 인계 문서. 새 대화는 여기서 시작한다 |
+| 3 | `drafts/thesis_v2_part1~5.md` | **지금의 원고.** 각주 본문은 `tools/build_v2/fn_v2.json`, 빌드는 `tools/build_v2/README.md` |
+| 4 | `drafts/thesis_plan.qmd` | 논문계획(유보·조사 계획·심사 지적과 대응) |
+| 5 | `docs/07_writing_rules.md`, `docs/11_style_model.md`, `docs/13_thesis_frame_model.md` | 작성 원칙과 형식 준거 |
+| 6 | `research/00_index.md` | 사료 카드 색인. 자료를 조사하기 전에 반드시 연다 |
+| 7 | `docs/12_reading_ledger.md`, `docs/09_materials_ledger.md`, `docs/10_copy_request_list.md`, `docs/04_information_disclosure_requests.md` | 판독 대장, 폴더 자료 대장, 사본·청구 목록, 정보공개청구 문안 |
+| 8 | `research/00_verification_ledger.md` | 검증되지 않은 에이전트 산출물의 판정 |
 
-- `docs/` — 논문 기획 문서
-  - `00_overview.md` — 주제·연구질문·범위·기여
-  - `01_research_proposal.md` — 연구계획서 초안 템플릿
-  - `02_outline.md` — 목차(장·절) 초안
-- `deliverables/` — 컨설팅 산출물
-  - `D01_source_acquisition_guide.md` — 사사(社史)·1차/대체 자료 확보 가이드
-  - `D02_mcp_research_toolkit.md` — 환각 방지·사료 분석용 MCP 서버 4종 세팅(검증·정정본)
-  - `D03_topic_selection_memo.md` — 4M DRAM 공동개발사업 중심 주제선정·타당성 시험
-  - `D04_quarto_mcp_toolchain_review.md` — 사료조사 MCP·OCR·Zotero·Quarto Book 툴체인 검토
-  - `D05_advisor_meeting_brief_2pages.qmd` — 지도교수 면담용 2쪽 주제·사료·목차·결정 문서
-  - `D06_advisor_research_and_thesis_strategy.md` — 허은 교수 연구·지도논문 분석과 4M DRAM 석사논문 실행전략
-- `sources/` — 자료 관리 대장
-  - `primary_sources.md` — 1차 사료(사사·백서·통계) 소재·청구기호 트래커
-  - `secondary_sources.md` — 2차 문헌(단행본·논문)
-  - `bibliography.bib` — BibTeX 서지 데이터베이스
-- `research/`
-  - `timeline_1980s_electronics.md` — 1980년대 전자산업 연표(사건·정책·기업)
-  - `reading_note_template.md` — 문헌 정독 노트 템플릿
-- `guide/` — **설치부터 실제 집필환경까지 연결하는 실습 가이드**
-  - `README.md` — 가이드 선택·진행 순서·핵심 원칙
-  - `tomorrow_thesis_kickoff_guide.md` — Python·R·Quarto·Codex 설치, 지도 토론, Quarto Book·사료대장·인용 검증 실행안
-  - `2h_thesis_ai_guide.md` — 초기 Claude/MCP 실습안(참고용)
-- `consulting/`
-  - `methodology.md` — 컨설팅 방법론·역할분담·진행 단계
-  - `session_log_template.md` — 세션 기록 템플릿
-  - `session_log/` — 회차별 세션 기록 보관
+## 폴더
 
-## 사용 방법
+- `drafts/` — 원고. `thesis_v2.md`·`thesis_v2_presentation.md`는 빌드 산출물이므로 손으로 고치지 않는다. `thesis_conception.qmd`·`thesis_draft.qmd`는 2026-09-29에 멈춘 종전 원고다
+- `research/` — 사료 카드(`source_card_*.md`)와 조사 기록
+- `docs/` — 인계·원칙·대장
+- `tools/build_v2/` — 원고를 한글 문서로 만드는 빌드
+- `archive/` — 지금은 쓰지 않는 문서를 원문 그대로 모아 둔 곳. 2026년 8월 초의 기획 문서는 `archive/2026-08_초기기획.md`에 있다
 
-1. `deliverables/D06_advisor_research_and_thesis_strategy.md`와 `docs/00_overview.md`를 지도교수와 검토해 주제·연구질문을 확정한다.
-2. `deliverables/D01_source_acquisition_guide.md`를 따라 핵심 사료를 확보하고
-   `sources/primary_sources.md` 대장에 소재·청구기호·확보상태를 기록한다.
-3. 자료를 읽으며 `research/reading_note_template.md`를 복제해 정독 노트를 남긴다.
-4. 노트가 쌓이면 `docs/02_outline.md`의 목차를 구체화하고 초고를 쓴다.
-
-## 원칙
-
-- 인용·서지는 처음부터 BibTeX(`sources/bibliography.bib`)로 관리해 각주 재작업을 없앤다.
-- 1차 사료 우선, 회사 사사(社史)는 자기서술 편향을 감안해 정부 백서·타사 사사·통계로 **교차검증**한다.
-- 저작권 있는 자료 원문(PDF 스캔 등)은 이 저장소에 커밋하지 않는다(`.gitignore` 참조).
+원문 PDF와 스캔본은 저작권 때문에 저장소에 올리지 않고 작업 폴더에만 둔다(`.gitignore`).
