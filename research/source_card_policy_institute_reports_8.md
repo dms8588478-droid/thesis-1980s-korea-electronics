@@ -319,4 +319,4 @@
 | 4 | 양희승(1991) 제3~5장 정독 | 반도체 3사의 기술선택 비교 |
 | 5 | 김환석·장영배(1991) | 「기술종속」 틀의 반도체 사례 |
 
-관련: [[00_index]] · [[thesis-three-axes]] · [[source_card_kwon_1988_research_cooperatives]] · [[source_card_mosst_5years]] · [[source_card_presidential_approval_1986]]
+관련: [[00_index]] · [[thesis-three-axes]] · [[source_card_kwon_1988_research_cooperatives]] · [[source_card_mosst_5years]] · [[source_card_1986_gongdong]]

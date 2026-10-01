@@ -157,4 +157,4 @@
 
 ---
 
-관련: [[00_index]] · [[source_card_pa_1976_electronics_plan]] · [[source_card_kim_heesook_2025]] · [[source_card_telecom_corporation_act_1985]]
+관련: [[00_index]] · [[source_card_pa_1976_electronics_plan]] · [[source_card_kim_heesook_2025]] · [[source_card_national_assembly_bills]]

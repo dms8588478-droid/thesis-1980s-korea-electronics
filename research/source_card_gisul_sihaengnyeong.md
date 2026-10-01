@@ -5,7 +5,7 @@
 - **열람처**: 국가법령정보센터 연혁법령 (`law.go.kr`, `lsiSeq=15677`)
 - **관보**: 관보 제10215호(1985.12.13) [확인: 국가기록원 관보 컬렉션]
 - **다음 판본**: 대통령령 제12059호 [시행 1987.1.1] (관보 제10526호, 1986.12.31) — 공동개발안 이후이므로 이 사업의 근거가 아니다
-- **연계**: `source_card_gisul_gaebal_chokjin.md`, `source_card_gwanbo_10336.md`, `source_card_1986_gongdong.md`
+- **연계**: `source_card_gisul_gaebal_chokjin.md`, `source_card_research_cooperative_act_1986.md#source_card_gwanbo_10336`, `source_card_1986_gongdong.md`
 
 ---
 

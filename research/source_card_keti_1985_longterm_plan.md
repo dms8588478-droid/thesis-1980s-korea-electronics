@@ -149,4 +149,4 @@
 
 ---
 
-관련: [[00_index]] · [[source_card_presidential_approval_1986]] · [[source_card_kiet_1984_semiconductor]] · [[source_card_industry_executives_1981_1989]] · `docs/10_copy_request_list.md` §8-10
+관련: [[00_index]] · [[source_card_1986_gongdong]] · [[source_card_kiet_1984_semiconductor]] · [[source_card_industry_executives_1981_1989]] · `docs/10_copy_request_list.md` §8-10

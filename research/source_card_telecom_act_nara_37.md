@@ -3,7 +3,7 @@
 **조사일** 2026-08-18. **성격** **1차 사료.** 1981년 제정부터 1989년 개정까지 이 법률의 국회 의안 문서 전부다.
 **출처** 국회기록원(`nara.go.kr`) 국회기록물 > 일반문서. **저장 위치** `한국전기통신공사법_국회기록원/`.
 
-> **기존 카드와의 관계.** [[source_card_telecom_corporation_act_1985]]는 사용자가 준 네 건(의안 원문·심사보고서·회의록 둘)을 판독했고, [[source_card_national_assembly_bills]] §5-1은 국회기록원에서 교통체신위원회 소위 회의결과보고를 얻었다. **이번에 얻은 것은 그 밖의 33건이며, 특히 제안설명서와 검토보고 독립본이 새것이다.**
+> **기존 카드와의 관계.** [[source_card_national_assembly_bills]]는 사용자가 준 네 건(의안 원문·심사보고서·회의록 둘)을 판독했고, [[source_card_national_assembly_bills]] §5-1은 국회기록원에서 교통체신위원회 소위 회의결과보고를 얻었다. **이번에 얻은 것은 그 밖의 33건이며, 특히 제안설명서와 검토보고 독립본이 새것이다.**
 
 ---
 
@@ -212,4 +212,4 @@
 | ~~3~~ | ~~1983년 개정의 「통신사업운영 경비」~~ | **2026-08-20 완료 → §9. 재원 계보의 고리가 아니다** |
 | 4 | **같은 방법으로 다른 법률을 훑는다** | 산업기술연구조합육성법·공업발전법·기술개발촉진법의 국회기록원 소장분. **§0의 절차가 그대로 쓰인다** |
 
-관련: [[00_index]] · [[source_card_telecom_corporation_act_1985]] · [[source_card_national_assembly_bills]] · [[source_card_law_registry_2026_08_17]] · `docs/10_copy_request_list.md`
+관련: [[00_index]] · [[source_card_national_assembly_bills]] · [[source_card_national_assembly_bills]] · [[source_card_law_registry_2026_08_17]] · `docs/10_copy_request_list.md`

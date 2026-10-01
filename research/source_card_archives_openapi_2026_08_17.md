@@ -185,9 +185,9 @@
 
 ---
 
-<a id="research/source_card_archives_openapi_2026_08_17.md#옛-p2-API-질의"></a>
+<a id="옛-p2-API-질의"></a>
 
-## 〔원 파일〕 `research/source_card_archives_openapi_2026_08_17.md#옛-p2-API-질의` — 이 카드로 합침 · 작성 2026-08-08
+## 〔원 파일〕 `research/p2_archives_api_findings.md` — 이 카드로 합침 · 작성 2026-08-08
 
 > **【2026-10-01 통합 때 붙인 주】** 2026-08-08의 첫 질의(1건, 20건 결과)다. 이 카드의 2026-08-17 수집(17,656건)이 포섭한다.
 

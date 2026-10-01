@@ -95,7 +95,7 @@
 >
 > ② **일부개정이 아니라 전부개정이다.** 제12조 제3항이 「신설」된 것이 맞으나 그 형식은 법률 전체를 다시 쓴 전부개정이었다. **제안이유에 설명이 없었다는 원고의 논증은 전부개정이라는 형식과 함께 놓으면 더 뚜렷해진다** — 법 전체를 새로 쓰면서 그 조항만 설명하지 않은 것이다.
 >
-> **그리고 조합육성법(제3851호)과 같은 날 공포되었다.** 두 법률이 같은 관보 제10336호에 실린 것이 [[source_card_gwanbo_10336]]로 확인되어 있으며, 이 조사가 그것을 법령 데이터베이스에서 재확인한다.
+> **그리고 조합육성법(제3851호)과 같은 날 공포되었다.** 두 법률이 같은 관보 제10336호에 실린 것이 [[source_card_research_cooperative_act_1986]]로 확인되어 있으며, 이 조사가 그것을 법령 데이터베이스에서 재확인한다.
 >
 > **시행령 전부개정 제12005호(1986.12.6)**가 매출액 연동 출연 비율(100분의 1~5)을 정한 것이다.
 
@@ -138,4 +138,4 @@
 | 3 | 공업발전법 시행규칙(상공부령 제709호) 전문 | 합리화업종 지정 절차 |
 | 4 | **국가기록원 관보 원문 대조** | 위 셋의 관보 확인. 법령정보센터는 편집본이므로 관보로 대조한다 |
 
-관련: [[00_index]] · [[source_card_research_cooperative_act_1986]] · [[source_card_gwanbo_10336]] · [[source_card_telecom_corporation_act_1985]] · [[source_card_1981_ipbeop]] · [[source_card_kang_mangil_2018_modern_history]]
+관련: [[00_index]] · [[source_card_research_cooperative_act_1986]] · [[source_card_research_cooperative_act_1986]] · [[source_card_national_assembly_bills]] · [[source_card_1981_ipbeop]] · [[source_card_kang_mangil_2018_modern_history]]

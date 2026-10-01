@@ -193,4 +193,4 @@
 | 3 | **Scott Callon, *Divided Sun*(1995)** — 일본 VLSI 조합의 실상. 축1의 대조군 |
 | 4 | 결론(책면 255~262)과 〈표 7-1〉 |
 
-관련: [[00_index]] · [[thesis-three-axes]] · [[source_card_1986_gongdong]] · [[source_card_presidential_approval_1986]] · [[source_card_project_annual_reports_scienceon]] · [[source_card_telecom_corporation_act_1985]] · [[source_card_patent_applicants_1986_1989]]
+관련: [[00_index]] · [[thesis-three-axes]] · [[source_card_1986_gongdong]] · [[source_card_1986_gongdong]] · [[source_card_project_annual_reports_scienceon]] · [[source_card_national_assembly_bills]] · [[source_card_patent_applicants_1986_1989]]

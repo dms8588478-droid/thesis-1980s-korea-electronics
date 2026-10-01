@@ -43,7 +43,7 @@
 | 그 결과 | 관세제도·감가상각제도의 개선, **연구개발자금에 대한 특별세제 감면**, 각 대학의 전문인력 양성 자금 지원 |
 | **1978년** | **정부 주도로 초고속반도체(VHSIC) 개발 6개년계획**을 세워 **IBM·텍사스 인스트루먼츠 등 9개 대회사가 참여**, 관민공동으로 개발 |
 
-**앞서 「저장소에 미국·일본의 반도체 육성 정책 자료가 없다」고 적었는데, 이 사설이 그 공백을 당대 한국의 인식으로 메운다.** [[source_card_us_japan_semiconductor_holdings]]
+**앞서 「저장소에 미국·일본의 반도체 육성 정책 자료가 없다」고 적었는데, 이 사설이 그 공백을 당대 한국의 인식으로 메운다.** [[source_card_industry_journal_articles]]
 
 **구상 제3장이 세마테크(1987)와 US Memories(1989)를 든 데 대하여, 미국의 관민 공동개발은 1978년 VHSIC까지 올라간다.** 구상이 이미 「한국이 앞서 시작한 것이 아니다」로 고쳤으므로 그 서술이 한층 뒷받침된다.
 
@@ -121,4 +121,4 @@
 | 3 | 미국 **VHSIC 계획(1978)** | 참여 9개사와 재원 구조 |
 | 4 | 1970년대 미국 **반도체공업회(SIA)** | 정부 주도로 조직되었다는 서술의 검증 |
 
-관련: [[thesis-source-principles]] · [[source_card_maeil_1985_series]] · [[source_card_kyunghyang_1982_cooperative]] · [[source_card_us_japan_semiconductor_holdings]]
+관련: [[thesis-source-principles]] · [[source_card_maeil_1985_series]] · [[source_card_kyunghyang_1982_cooperative]] · [[source_card_industry_journal_articles]]

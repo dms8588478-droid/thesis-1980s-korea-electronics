@@ -54,7 +54,7 @@
 | 카드 | 무엇이 확정되어 있는가 |
 |---|---|
 | **`source_card_1986_gongdong.md`** | **재가 문서 원본**(대통령기록관 1A00614174547563, 25면). 문서명·생산기관·결재란, **대통령 친필 지시**, **총사업비 879억(순수연구비 400 + 기자재 479)과 연차별 377·318·184**, 순수연구비 조달 분담(과기처 100·공사 200·조합사 100), **연구결과 활용과 연구비 상환 조항**, 성과 공동소유 규정. **원본은 `기록관/대통령기록관/1986.08.22. …1A00614174547563.pdf`로 저장소에 있다** |
-| **`source_card_presidential_approval_1986.md`** | 위 카드의 **보유분**(2026-08-17). **기자재비 479억의 조달**(산업기술향상자금 200 + 조합사 279), **「1分科組合社」**, **분담·합동·개별 연구의 구분**, 참고8의 외국 사례(일본 전전공사·미국 SRC와 중소기업 공동연구), 추진 경위 다섯 시점, 이사장 姜晉求 |
+| **`source_card_1986_gongdong.md#source_card_presidential_approval_1986`** | 위 카드의 **보유분**(2026-08-17). **기자재비 479억의 조달**(산업기술향상자금 200 + 조합사 279), **「1分科組合社」**, **분담·합동·개별 연구의 구분**, 참고8의 외국 사례(일본 전전공사·미국 SRC와 중소기업 공동연구), 추진 경위 다섯 시점, 이사장 姜晉求 |
 | **`source_card_research_cooperative_act_1986.md`** (590행) | **산업기술연구조합육성법 전문. 2026-08-13에 관보 제10336호 106~108면 원문 이미지로 대조 완료.** 인가기준 제3호 「재원의 조달」, 제9조 우선구매, 관보에만 있는 제정이유, **같은 관보의 한국전기통신공사법 개정** |
 | **`source_card_law_registry_2026_08_17.md`** | **【최상급】 원고가 언급한 법령 14종의 연혁법령 전수조사. 공업발전법 시행일 1986.7.1, 공사법 전부개정 제3847호, 조합육성법이 기술개발촉진법을 타법개정. 중소기업 기술고도화 촉진법과 첨단기술산업육성 임시조치법은 [부재확인]** | **08-17** | **[확인]** |
 | **`source_card_gisul_gaebal_chokjin.md`** · **`source_card_gisul_sihaengnyeong.md`** | **기술개발촉진법 제10조의3**(1986년 5월 인가의 근거)과 **시행령 제11801호**. 시행령 제13조의3 협약 체결방법, 제13조의6 출연금 사용, 제15조 공업소유권 양여, 제17조 조합 설립허가신청 |
@@ -68,7 +68,7 @@
 | 카드 | 대상 | 조사일 |
 |---|---|---|
 | `source_card_1986_gongdong.md` | **재가 문서**(1986.8.22) | 08-08 |
-| `source_card_presidential_approval_1986.md` | 같은 문서 보유분 | 08-17 |
+| `source_card_1986_gongdong.md#source_card_presidential_approval_1986` | 같은 문서 보유분 | 08-17 |
 | `source_card_1981_yuksung.md` | 1981.05 전자공업육성계획·반도체공업육성계획 — **두 문서 모두 [판독]**(10-01 §7·§8: 위원회 설계, 기금 1,500억과 부총리 메모, 5월과 9월의 정책기조 대비) | 08-08·10-01 |
 | `source_card_pa_archive_search_2026_08_13.md` | **대통령기록관 기록물검색 전수 조사** | 08-13 |
 | `pa_instruction_db_findings.md` | 대통령기록관 지시사항 DB 「반도체」 검색 | 08-12 |
@@ -81,12 +81,12 @@
 | 카드 | 대상 | 조사일 |
 |---|---|---|
 | `source_card_research_cooperative_act_1986.md` | **조합육성법 전문·관보 대조필** | 08-12·13 |
-| `source_card_gwanbo_10336.md` | 관보 제10336호 원문 이미지(BA0196304) | 08-08 |
+| `source_card_research_cooperative_act_1986.md#source_card_gwanbo_10336` | 관보 제10336호 원문 이미지(BA0196304) | 08-08 |
 | `source_card_gisul_gaebal_chokjin.md` | 기술개발촉진법 연혁 21판본 | 08-08 |
 | `source_card_gisul_sihaengnyeong.md` | 기술개발촉진법시행령 제11801호 | 08-08 |
 | `source_card_cooperative_articles_search.md` | **조합 정관 찾기**(못 찾음). 육성법 시행령·시행규칙, 국가기록원 주제 007243 기록물 31건 | 08-16 |
 | `source_card_ministry_organization_decrees.md` | 부처 직제(대통령령) 1980년대 개정 계열 | 08-13 |
-| `source_card_telecom_corporation_act_1985.md` | 한국전기통신공사법 개정법률안(의안 145) | — |
+| `source_card_national_assembly_bills.md#source_card_telecom_corporation_act_1985` | 한국전기통신공사법 개정법률안(의안 145) | — |
 | `source_card_national_assembly_bills.md` (1,110행) | **국회 의안·회의록 세 법률** | — |
 | `source_card_1981_ipbeop.md` | 전자공업진흥법 개정 입법사료(1981) | 08-08 |
 
@@ -98,7 +98,7 @@
 | `source_card_assembly_minutes_1983_1988.md` (897행) | 경제과학위 41건 |
 | `source_card_commerce_committee_1981_1984.md` | 제11대 상공위 33건 |
 | `source_card_commerce_committee_1985_1988.md` | 제12대 상공위 37건 |
-| `source_card_gyeongjekwahak_minutes.md` | 제12대 경제과학위(과기처·ETRI 소관) |
+| `source_card_assembly_minutes_1983_1988.md#source_card_gyeongjekwahak_minutes` | 제12대 경제과학위(과기처·ETRI 소관) |
 | `p5_assembly_minutes_locations.md` | 공업발전법안 심의 회의록 소재 |
 
 ## 4. 1차 사료 — 사업·기관 문서
@@ -140,7 +140,7 @@
 | `source_card_localization_policy_two_reports.md` | 대한상공회의소(1986)·산업연구원(1990) 국산화 | 08-15 |
 | `source_card_policy_research_reports_1989_1991.md` | 정책연구 보고서 2편(1989·1991) | 08-14 |
 | `source_card_industry_journal_articles.md` | **『기사』 폴더 16편** | 08-14 |
-| `source_card_us_japan_semiconductor_holdings.md` | 『기사』 중 미·일 관련 6편 목록 | 08-16 |
+| `source_card_industry_journal_articles.md#source_card_us_japan_semiconductor_holdings` | 『기사』 중 미·일 관련 6편 목록 | 08-16 |
 | `source_card_kwon_1988_research_cooperatives.md` | **權相遠(과기처), 『중소기업진흥』 53(1988.7)** — 조합원 대기업20:중소기업3 | 08-16 |
 | **`source_card_policy_institute_reports_8.md`** | **`연구기관 보고서/연구소 보고서/` 폴더 8편**(1989~94). **기술료 계약 313.8억 대 징수 64.7억**, 조합 30개 191과제 2,628억, 일본 VLSI 효과에 대한 1991년 의문 | 08-17 |
 

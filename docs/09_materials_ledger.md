@@ -26,12 +26,12 @@
 | 1981~1982 국회회의록 | 32 | `source_card_assembly_minutes_1981_1982` |
 | 경제과학위 (1985~1988) | 22 | `source_card_assembly_minutes_1983_1988` |
 | 경제과학위 (1983~1984) | 19 | 〃 |
-| **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_us_japan_semiconductor_holdings` |
+| **기사** | 16 | `source_card_industry_journal_articles`(16편 전부) · `source_card_industry_journal_articles.md#source_card_us_japan_semiconductor_holdings` |
 | **학맥 논문** | **26**(석사 19·박사 7. `_추출텍스트/`에 판독본 26개가 함께 있다. **2026-09-27에 폴더 이름이 바뀌었다** — 옛 `학위논문 모음`(24편)과 `석논 모음`(15편, 부분집합)이 이 폴더 하나로 합쳐졌고 이주호 석논 2012와 조관 석논 2026이 더해졌다. 목차는 `_목차모음(OCR).md`) | **`source_card_theses_form_24`**(목차·머리말 형식) · `source_card_prior_studies_2026_08_13`(내용) |
 | **대통령기록관** | **16**(2026-09-27에 大統領秘書室의 1976년 문서 둘이 늘었다 — 「電子工業 育成計劃(半導體 및 컴퓨터 關聯産業)」 17면, 「電子交換機 生産과 電子工業 育成」 10면. **원문 PDF는 한 번에 받으면 끊기고 범위 요청으로 나누어 받아야 온전하다**) | `source_card_1986_gongdong` · `source_card_1981_yuksung` · `source_card_pa_trade_reports` · `pa_instruction_db_findings` |
 | 산업기술연구조합육성법 | 11 | `source_card_research_cooperative_act_1986` · `source_card_national_assembly_bills` |
 | 한국전자통신연구원 | 10 | `source_card_etri_10years` · `source_card_etri_trends_journal` |
-| 한국전기통신공사법개정법(+법률안) | 12 | `source_card_telecom_corporation_act_1985` |
+| 한국전기통신공사법개정법(+법률안) | 12 | `source_card_national_assembly_bills.md#source_card_telecom_corporation_act_1985` |
 | **한국전기통신공사법_국회기록원** | **37**(526면, 2026-08-18 국회기록원에서 내려받음. **2026-08-20 1981년분 8건·1983년분 7건 정독 완료**) | **`source_card_telecom_act_nara_37`** §8~9 |
 | **한국전기통신공사** | **15**(234면, 2026-08-20 사용자 제공). **위 37건의 1981·1983년분과 같은 문서이고 앞 5면만 내용이 있는 미리보기다 — 중복** | 〃 §10 |
 | **국회기록원_2026_08_21**(`.gitignore`가 막는다) | **21**(2026-08-21). 정부투자기관관리기본법 1983년 제정 문서 여섯, 국정감사 위원요구자료 열둘, 공사 업무보고 셋 | **`source_card_nara_2026_08_21`** |
@@ -111,12 +111,12 @@
 |---|---|---|
 | **재가 문서 원본**을 「저장소에 있었다」며 새로 읽음 | `source_card_1986_gongdong.md`(**08-08**) | 총사업비 879억·연차별·조달 분담·**대통령 친필**·**연구비 상환**이 모두 이미 [확인]이었다 |
 | **조합육성법 조문**을 국가법령정보센터에서 새로 확인하고 **「관보 대조가 남았다」는 유보를 달음** | `source_card_research_cooperative_act_1986.md`(**08-13 관보 대조 완료**) | **있지도 않은 유보를 만들어 구상 각주에 넣었다.** 가장 나쁜 형태의 중복이다 |
-| **관보 제10336호**를 국가기록원에서 「찾음」 | `source_card_gwanbo_10336.md`(08-08, 원문 이미지 내려받음) | 소장처 실사 보고서 `archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram`도 이미 있었다 |
+| **관보 제10336호**를 국가기록원에서 「찾음」 | `source_card_research_cooperative_act_1986.md#source_card_gwanbo_10336`(08-08, 원문 이미지 내려받음) | 소장처 실사 보고서 `archive/2026-08_에이전트산출물.md#gazette_archive_audit_4m_dram`도 이미 있었다 |
 | **『전자진흥』 1988년 대담**의 서지를 「새로 확인」 | `source_card_cooperative_1988_interview.md`(08-14) | 구상이 이미 인용하던 글이다 |
 
 ### 그럼에도 새로 얻은 것
 
-**중복이 전부는 아니었다.** 재가 문서에서 **기자재비 479억의 조달(산업기술향상자금 200 + 조합사 279)**, **「1分科組合社」**, **분담·합동·개별 연구의 구분**, **참고8의 외국 사례**, 추진 경위 다섯 시점, 이사장 姜晉求는 기존 카드에 없던 것이다. **그 부분만 `source_card_presidential_approval_1986.md`에 남기고 겹치는 부분은 기존 카드를 가리키도록 고쳤다.**
+**중복이 전부는 아니었다.** 재가 문서에서 **기자재비 479억의 조달(산업기술향상자금 200 + 조합사 279)**, **「1分科組合社」**, **분담·합동·개별 연구의 구분**, **참고8의 외국 사례**, 추진 경위 다섯 시점, 이사장 姜晉求는 기존 카드에 없던 것이다. **그 부분만 `source_card_1986_gongdong.md#source_card_presidential_approval_1986`에 남기고 겹치는 부분은 기존 카드를 가리키도록 고쳤다.**
 
 ---
 

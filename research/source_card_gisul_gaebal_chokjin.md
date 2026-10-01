@@ -2,7 +2,7 @@
 
 - **확인일**: 2026-08-08
 - **열람처**: 국가법령정보센터 연혁법령 (`law.go.kr`, 연혁 총 112건 중 법률 21개 판본)
-- **연계**: `source_card_gwanbo_10336.md`, `p2_missing_sources_investigation.md` §3, `source_verification_plan.md` §4 핵심 질문
+- **연계**: `source_card_research_cooperative_act_1986.md#source_card_gwanbo_10336`, `p2_missing_sources_investigation.md` §3, `source_verification_plan.md` §4 핵심 질문
 
 ## 왜 이 법을 봤는가
 

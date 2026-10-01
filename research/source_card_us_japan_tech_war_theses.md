@@ -152,4 +152,4 @@
 
 **두 논문 모두 정치외교학 연구서이므로 본고 본문에 논거로 쓰지 않는다.** 여기서 얻은 것은 **배경 서술과 다음 조사의 방향**이다. 인용할 값이 있는 것은 이들이 인용한 **1차 자료**(SIA 보고서, NSDD 문서, CIA 문서, Fong의 통상산업성 자료)이며, **그 원문을 확인하기 전에는 각주에 재인용으로 밝힌다.**
 
-관련: [[thesis-source-principles]] · [[thesis-three-axes]] · [[source_card_us_japan_semiconductor_holdings]] · [[source_card_maeil_1985_series]] · [[source_card_hankyung_semiconductor_localization]]
+관련: [[thesis-source-principles]] · [[thesis-three-axes]] · [[source_card_industry_journal_articles]] · [[source_card_maeil_1985_series]] · [[source_card_hankyung_semiconductor_localization]]
