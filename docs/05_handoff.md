@@ -86,7 +86,7 @@ grep -rl "검색어" research/ docs/ drafts/
 | **`tools/build_v2/fn_v2.json`** | **각주 본문 255개(2026-10-02).** 각주를 고치면 여기를 고친다 |
 | `drafts/thesis_v2.md` | part1~5와 각주를 합친 전체본. `tools/build_v2/assemble.py`가 만든다 — **손으로 고치지 않는다** |
 | `drafts/thesis_v2_presentation.md` | 발표문 판(국문초록·표 목차·참고문헌을 뺀 것). `mkpres.py`가 만든다 |
-| **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 15:25, 227,840바이트**(각주 255개·표 9종·첫 줄 제목 확인, 신문 판면 대조와 재가 문서 친필 정정 반영) |
+| **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 16:10, 228,864바이트**(각주 257개·표 9종·첫 줄 제목 확인 — 재가 문서 친필 정정, 879억 원 문장과 `[^재가분과]`, 『전자신문』 1986.10.23의 `[^팔육차등]` 반영) |
 | ~~`drafts/thesis_plan.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `git show 8fde44a:drafts/thesis_plan.qmd`). 심사 지적 대응 제4·5부도 거기 있다 |
 | ~~`drafts/thesis_conception.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `17f06b1`에 있다) |
 | ~~`drafts/thesis_draft.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `git show 7a319db:drafts/thesis_draft.qmd`). 9월 29일에 멈춘 종전 초고였다 |
