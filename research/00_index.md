@@ -26,7 +26,7 @@
 >
 > **[[thesis-source-principles]]와 [[thesis-three-axes]]는 저장소 파일이 아니라 기억 노트를 가리킨다.** 카드 서른다섯 편이 이 둘을 걸고 있으나 `research/`에는 없으므로 끊긴 것이 아니다.
 
-> **심사 지적 원문은 `docs/08_reviews.md`에 있다.** 1차(22항)와 2차(7절)를 고치지 않고 보존했으며, 대응 내역은 `drafts/thesis_plan.qmd` 제4·5부에 있다.
+> **심사 지적 원문은 `docs/08_reviews.md`에 있다.** 1차(22항)와 2차(7절)를 고치지 않고 보존했으며, 대응 내역은 지운 `drafts/thesis_plan.qmd`(커밋 기록 `git show 8fde44a:drafts/thesis_plan.qmd`) 제4·5부에 있다.
 
 > **사본 신청 목록은 `docs/10_copy_request_list.md`에 있다.** 국회기록원·국가기록원·대통령기록관별로 관리번호가 확정된 것과 목록 검색부터 할 것을 갈라 두었다.
 

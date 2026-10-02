@@ -20,7 +20,7 @@
 
 **원인은 카드가 예순 편을 넘겼는데 색인이 없었던 것이다. 그래서 둘을 새로 만들었다.**
 
-> **【2026-10-02】 구상 원고 `thesis_conception.qmd`는 사용자 지시로 지웠다. 지금은 원고 v2와 논문계획 둘이다 — 아래 문장의 「구상」은 v2 원고로 읽는다.**
+> **【2026-10-02】 구상 원고 `thesis_conception.qmd`는 사용자 지시로 지웠다. 같은 날 논문계획 `thesis_plan.qmd`도 지웠다. 지금 원고는 v2 하나이고, 유보·조사 계획은 사료 카드와 이 문서 §7에 둔다 — 아래 문장은 지나간 기록이다.**
 >
 > **원고가 둘이라는 것부터 안다.** **`drafts/thesis_conception.qmd`(논문구상)에는 논문에 실을 내용만 두고, 유보와 조사 계획은 `drafts/thesis_plan.qmd`(논문계획)에 둔다.** 구상에 유보를 적지 않는다.
 
@@ -87,7 +87,7 @@ grep -rl "검색어" research/ docs/ drafts/
 | `drafts/thesis_v2.md` | part1~5와 각주를 합친 전체본. `tools/build_v2/assemble.py`가 만든다 — **손으로 고치지 않는다** |
 | `drafts/thesis_v2_presentation.md` | 발표문 판(국문초록·표 목차·참고문헌을 뺀 것). `mkpres.py`가 만든다 |
 | **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 15:25, 227,840바이트**(각주 255개·표 9종·첫 줄 제목 확인, 신문 판면 대조와 재가 문서 친필 정정 반영) |
-| `drafts/thesis_plan.qmd` | 논문계획. 유보·조사 계획 — 지금도 쓴다 |
+| ~~`drafts/thesis_plan.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `git show 8fde44a:drafts/thesis_plan.qmd`). 심사 지적 대응 제4·5부도 거기 있다 |
 | ~~`drafts/thesis_conception.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `17f06b1`에 있다) |
 | ~~`drafts/thesis_draft.qmd`~~ | **9월 29일에 멈춘 종전 원고.** 새 내용을 넣지 않는다. CLAUDE.md의 「구상과 초고 둘 다에 넣는다」는 이 둘을 두고 한 말이다 |
 
@@ -138,7 +138,7 @@ grep -rl "검색어" research/ docs/ drafts/
 1. **이 문서(`docs/05_handoff.md`)** — 특히 **§0-A(중복을 막는 절차)**를 먼저 읽는다
 2. **`research/00_index.md`** — 사료 카드 색인. **자료를 손대기 전에 반드시 연다**
 3. **`drafts/thesis_v2_part1~5.md`(원고)** — 산출물 본체(§0-D). 각주 본문은 `tools/build_v2/fn_v2.json`, 빌드는 `tools/build_v2/README.md`. 종전의 `thesis_draft.qmd`는 9월 29일에 멈췄고 `thesis_conception.qmd`는 10월 2일에 지웠다
-4. **`drafts/thesis_plan.qmd`(논문계획)** — 가제·초록·유보·미확인 항목·**심사 지적 대응(제4·5부)**
+4. ~~`drafts/thesis_plan.qmd`(논문계획)~~ — **2026-10-02에 지웠다.** 심사 지적 대응(제4·5부)을 볼 때는 `git show 8fde44a:drafts/thesis_plan.qmd`
 5. **`docs/08_reviews.md`** — **심사 지적 원문(1·2차와 2026-09-28의 3차).** 무엇에 답했는지 확인할 때 본다
 6. **`docs/07_writing_rules.md`** — 작성 원칙 **스물하나**와 **지침·지적이 충돌할 때의 처리**
 7. **`docs/11_style_model.md`** — **문체의 준거.** 원고에 문장을 하나라도 더하기 전에 §2(문장의 형식 여덟)와 §3(고칠 것 여섯)을 본다
