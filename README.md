@@ -17,7 +17,7 @@
 
 ## 폴더
 
-- `drafts/` — 원고. `thesis_v2.md`·`thesis_v2_presentation.md`는 빌드 산출물이므로 손으로 고치지 않는다. `thesis_draft.qmd`는 2026-09-29에 멈춘 종전 원고다. 구상 원고 `thesis_conception.qmd`, 논문계획 `thesis_plan.qmd`, 구상 렌더본 `thesis_proposal_draft.pdf`와 `pdf_preview*/`는 2026-10-02에 지웠다(커밋 기록에 있다)
+- `drafts/` — 원고. `thesis_v2.md`·`thesis_v2_presentation.md`는 빌드 산출물이므로 손으로 고치지 않는다. 지금 원고는 `thesis_v2_part1~5.md` 하나다. 초고 `thesis_draft.qmd`, 구상 원고 `thesis_conception.qmd`, 논문계획 `thesis_plan.qmd`, 구상 렌더본 `thesis_proposal_draft.pdf`와 `pdf_preview*/`는 2026-10-02에 지웠다(커밋 기록에 있다)
 - `research/` — 사료 카드(`source_card_*.md`)와 조사 기록
 - `docs/` — 인계·원칙·대장
 - `tools/build_v2/` — 원고를 한글 문서로 만드는 빌드

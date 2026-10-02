@@ -89,7 +89,7 @@ grep -rl "검색어" research/ docs/ drafts/
 | **작업 폴더 `261000 최낙은 발표문.hwp`** | **사용자에게 가는 산출물.** 한글 COM으로 만든다(`tools/build_v2/README.md`). 저장소에는 올리지 않는다. **지금 판은 2026-10-02 15:25, 227,840바이트**(각주 255개·표 9종·첫 줄 제목 확인, 신문 판면 대조와 재가 문서 친필 정정 반영) |
 | ~~`drafts/thesis_plan.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `git show 8fde44a:drafts/thesis_plan.qmd`). 심사 지적 대응 제4·5부도 거기 있다 |
 | ~~`drafts/thesis_conception.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `17f06b1`에 있다) |
-| ~~`drafts/thesis_draft.qmd`~~ | **9월 29일에 멈춘 종전 원고.** 새 내용을 넣지 않는다. CLAUDE.md의 「구상과 초고 둘 다에 넣는다」는 이 둘을 두고 한 말이다 |
+| ~~`drafts/thesis_draft.qmd`~~ | **2026-10-02 사용자 지시로 지웠다**(커밋 기록 `git show 7a319db:drafts/thesis_draft.qmd`). 9월 29일에 멈춘 종전 초고였다 |
 
 **제목** 「전두환 정부의 산업정책 재편과 대자본의 공동연구개발 참여 — 반도체 공동개발사업을 중심으로」(`0ed2e43`, 학맥 26편의 제목 형식으로 정했다). **최종 제목은 지도교수 결정 사항.**
 
@@ -137,7 +137,7 @@ grep -rl "검색어" research/ docs/ drafts/
 
 1. **이 문서(`docs/05_handoff.md`)** — 특히 **§0-A(중복을 막는 절차)**를 먼저 읽는다
 2. **`research/00_index.md`** — 사료 카드 색인. **자료를 손대기 전에 반드시 연다**
-3. **`drafts/thesis_v2_part1~5.md`(원고)** — 산출물 본체(§0-D). 각주 본문은 `tools/build_v2/fn_v2.json`, 빌드는 `tools/build_v2/README.md`. 종전의 `thesis_draft.qmd`는 9월 29일에 멈췄고 `thesis_conception.qmd`는 10월 2일에 지웠다
+3. **`drafts/thesis_v2_part1~5.md`(원고)** — 산출물 본체(§0-D). 각주 본문은 `tools/build_v2/fn_v2.json`, 빌드는 `tools/build_v2/README.md`. 종전의 `thesis_draft.qmd`·`thesis_conception.qmd`·`thesis_plan.qmd`는 10월 2일에 지웠다
 4. ~~`drafts/thesis_plan.qmd`(논문계획)~~ — **2026-10-02에 지웠다.** 심사 지적 대응(제4·5부)을 볼 때는 `git show 8fde44a:drafts/thesis_plan.qmd`
 5. **`docs/08_reviews.md`** — **심사 지적 원문(1·2차와 2026-09-28의 3차).** 무엇에 답했는지 확인할 때 본다
 6. **`docs/07_writing_rules.md`** — 작성 원칙 **스물하나**와 **지침·지적이 충돌할 때의 처리**
