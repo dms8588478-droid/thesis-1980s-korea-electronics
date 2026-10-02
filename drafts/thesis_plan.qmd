@@ -11,7 +11,9 @@ margin:
 mainfont: "Noto Sans KR"
 ---
 
-> **이 문서는 계획이고 `drafts/thesis_conception.qmd`(논문구상)는 논문에 쓸 내용이다.** 구상에는 확정된 것만 두고, 유보와 조사 계획과 메타 서술은 모두 여기로 보낸다.
+> **【2026-10-02】 구상 원고 `thesis_conception.qmd`는 지웠다. 지금 논문에 쓸 내용은 원고 v2(`drafts/thesis_v2_part1~5.md`)에 있다.**
+>
+> **이 문서는 계획이고 `drafts/thesis_conception.qmd`(논문구상)는 논문에 쓸 내용이었다.** 구상에는 확정된 것만 두고, 유보와 조사 계획과 메타 서술은 모두 여기로 보낸다.
 >
 > **2026년 8월 17일에 셋을 합쳤다.** 옛 `thesis_plan_prep.qmd`(가제·초록·시각과 논지·자료와 구성·유보), 옛 `docs/06_open_questions.md`(미확인 항목과 기록물 소재), 그리고 **구상의 각주에서 덜어낸 유보 열넷**이다.
 >
